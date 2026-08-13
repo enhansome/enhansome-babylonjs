@@ -1,0 +1,2058 @@
+{
+  "items": [
+    {
+      "description": "Official Babylon.js demos that really showcase what it is capable of.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ActionBuilder",
+          "description": "Turn the lights on/off using flip switches. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Actions",
+          "description": "A torus that goes around in a circle and changes shape when it hovers over another shape. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amp360Video",
+          "description": "Explore a video in 360°. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AssetsManager",
+          "description": "A human skull. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AudioAnalyser",
+          "description": "Babylon isn't just graphics; it's a full game engine. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bones",
+          "description": "A walking soldier + animated bunnies. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boom",
+          "description": "Make things explode with a touch. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bump",
+          "description": "Render a ball using bump mapping. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CellShading",
+          "description": "Use cell-shading to reproduce a cartoon-like effect. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Charting",
+          "description": "3D charts. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChibiRex",
+          "description": "An animated baby T-Rex. What more do you need? (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dancers",
+          "description": "Animated 3D dancers. warning: takes a long time to load. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dancing CSG",
+          "description": "Constructive Solid Geometry using lights and a sparkly texture. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Decals",
+          "description": "Touch the cat to splatter it with black ink. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiStraction",
+          "description": "A JavaScript driving game demo. Works with a DS3. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DragNDrop",
+          "description": "Drag and rearrange different shapes. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Espilit",
+          "description": "Explore an entire (barebones) house. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExtrudePolygon",
+          "description": "Destroy your own house. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facets",
+          "description": "A fountain of countless balls falling onto a complex shape, showcasing physics. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flat 2009",
+          "description": "Explore an extremely detailed apartment, including a fishtank and bathroom. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlightHelmet",
+          "description": "A realistic aviator's helmet. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fur",
+          "description": "A disturbingly furred bunny. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GLTF",
+          "description": "A GLTF Alien model featuring facial animations. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GUI",
+          "description": "An interactive 3D UI. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GlowLayer",
+          "description": "Make a neon pipe glow like plasma. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GlowingEspilit",
+          "description": "Espilit but with glowing effects. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heightmap",
+          "description": "Generate terrain using a heightmap. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HillValley",
+          "description": "Explore a town isolated from the outside world, like in The Twilight Zone. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HillValleyVR",
+          "description": "HillValley but creepier in VR. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InstancedBones",
+          "description": "A group of soldiers marching in sync. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Instances2",
+          "description": "A complex, moving space engine. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LookAt",
+          "description": "Stare at a colored ball moving around in a box of shapes. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mansion",
+          "description": "Explore a haunted mansion. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MansionVR",
+          "description": "Explore a haunted mansion in virtual reality. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MotionBlur",
+          "description": "Blur things like if you were moving like The Flash. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PBRGlossy",
+          "description": "Physically based rendering of a battle-damaged sci-fi helmet. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PBRGlossyBloom",
+          "description": "Similar to PBRGlossy, but with an extra bloom filter. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PPBloom",
+          "description": "Simple post-processing. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PPConvolution",
+          "description": "A more advanced post-processing demo. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Particles",
+          "description": "Colorful particles erupting. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Physics",
+          "description": "Spheres and blocks with gravity added. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polygon",
+          "description": "It's a bird, but how did it get so flat? (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Procedural",
+          "description": "Don't hard-code content; generate it procedurally. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Retail",
+          "description": "Explore a small store (no stealing). (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SPS",
+          "description": "Simulate asteroids around a planet using a solid particle system. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SPSCollisions",
+          "description": "Solid particles as confetti being raining down on a ball. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpaceDeK",
+          "description": "Pretty darn close to a space-shooter. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sponza",
+          "description": "The most famous Babylon.js demo. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SponzaDynamicShadows",
+          "description": "A simpler version of Sponza, but with dynamic lights. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TheCar",
+          "description": "A futuristic car parked all by itself in a garage. Too bad there's no key. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Train",
+          "description": "An incredibly realistic train. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tunnel",
+          "description": "Travel inside an endless rust-filled tunnel. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "V8",
+          "description": "A complex, moving replica of a V8 engine. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WCafe",
+          "description": "Windows Cafe is a great place to unwind and have a relaxing look around. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yeti",
+          "description": "A non-threatening Yeti, complete with snow. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ink",
+          "description": "Quick Demo of using Babylon.js to simulate inking. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T20:46:14Z",
+            "owner": "sebavan",
+            "repo": "BabylonjsInkSample",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video Processing Sample",
+          "description": "Quick Demo for setting up a Babylon.js real-time video processing using a webcam. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T14:46:42Z",
+            "owner": "sebavan",
+            "repo": "BabylonjsVideoProcessingSample",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Demos"
+    },
+    {
+      "description": "Extra demonstrations of Babylon.js",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Minority Race",
+          "description": "A racing game made in 2016 for a film school. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robot Presentation",
+          "description": "A robot gives a timed presentation, with an interactive slider to control animation status. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "World Monger",
+          "description": "Become a God and shape the world around you. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T15:24:12Z",
+            "owner": "BabylonJS",
+            "repo": "Website",
+            "stars": 217
+          }
+        }
+      ],
+      "title": "Scenes"
+    },
+    {
+      "description": "Open source games built with Babylon.js",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Space Pirates",
+          "description": "Shoot down pirates in space. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-05-10T18:47:49Z",
+            "owner": "BabylonJS",
+            "repo": "SpacePirates",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Summer's Festival",
+          "description": "Source code for the game tutorial written by capucat. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-25T13:13:57Z",
+            "owner": "BabylonJS",
+            "repo": "SummerFestival",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoxelSrv",
+          "description": "Voxel browser game inspired by Minecraft. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2021-09-29T18:29:05Z",
+            "owner": "VoxelSrv",
+            "repo": "voxelsrv",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "F18 Fighter Simulation",
+          "description": "Simulation driving of F18 Fighter. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-04-11T12:47:09Z",
+            "owner": "renjianfeng",
+            "repo": "F18FlightSimulator-ammojs",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Space Truckers",
+          "description": "A game of getting stuff from Point A to Point B... IN SPAAAACCE! (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-27T20:11:55Z",
+            "owner": "jelster",
+            "repo": "space-truckers",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cosmos Journeyer",
+          "description": "Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T04:30:14Z",
+            "owner": "BarthPaleologue",
+            "repo": "CosmosJourneyer",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Space Invaders",
+          "description": "Space Invaders in your browser with 3D WebGL. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-23T11:54:05Z",
+            "owner": "johnpitchers",
+            "repo": "Space-Invaders",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Planet Builder",
+          "description": "Spherical Voxel Engine demo with a robot hand. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-22T14:12:50Z",
+            "owner": "SvenFrankson",
+            "repo": "planet-builder-web",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Defend",
+          "description": "Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-12-10T16:53:40Z",
+            "owner": "xtreemze",
+            "repo": "defend",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Light Speed Ready!",
+          "description": "A spaceship game of gathering resources and leveling your ship. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-05-09T23:42:51Z",
+            "owner": "Xanmia",
+            "repo": "Light-Speed-Ready",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hide and Seek Demo",
+          "description": "Multiplayer Hide-and-Seek made with BabylonJS and Colyseus. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-10-21T22:43:37Z",
+            "owner": "colyseus",
+            "repo": "babylonjs-hide-and-seek",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Theasis",
+          "description": "FPS game. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-06T04:51:01Z",
+            "owner": "ThanosRestas",
+            "repo": "Theasis",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Block",
+          "description": "A block puzzle game. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-11-20T07:38:38Z",
+            "owner": "Kimoen",
+            "repo": "block",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alien Cargo",
+          "description": "A WebGL 3D game inspired by the classic puzzle game Sokoban. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T15:17:06Z",
+            "owner": "vudugun",
+            "repo": "AlienCargo",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Attack of the Killer Bunnies",
+          "description": "Where bunnies go to die. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-07-21T23:56:45Z",
+            "owner": "farmersanonymous",
+            "repo": "killer-bunnies",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Barkanoid",
+          "description": "Arkanoid / Breakout clone with cinematic opening. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-20T14:27:32Z",
+            "owner": "pigmin",
+            "repo": "Breakout",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cube Endless Runner",
+          "description": "Cube Endless Runner is a 3D game built on top of WebGL and HTML5 technologies. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-02T22:41:51Z",
+            "owner": "babylonjs-archive",
+            "repo": "endless-runner-3d",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple 3D FPS",
+          "description": "A simple FPS game following Clean Code principles. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-04T01:03:47Z",
+            "owner": "babylonjs-archive",
+            "repo": "simple-3d-fps",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Accessible Breakout",
+          "description": "Breakout game fully accessible for people who are blind or visually impaired. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-31T00:21:14Z",
+            "owner": "babylonjs-archive",
+            "repo": "accessiblebreakout",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raucous Running and Rampaging Robot Racer Rally (R6)",
+          "description": "A fast-paced many-explosion robot racer game. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-10-07T03:26:14Z",
+            "owner": "hrr8-hermes",
+            "repo": "hrr8-hermes",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeoTrap",
+          "description": "Music-based game. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-04-19T07:59:34Z",
+            "owner": "shanadeshana",
+            "repo": "NeoTrap",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Games"
+    },
+    {
+      "description": "Open source projects using Babylon.js",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-babylonjs",
+          "description": "React for Babylon.js (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-02T13:56:21Z",
+            "owner": "brianzinn",
+            "repo": "react-babylonjs",
+            "stars": 888
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Immersa",
+          "description": "Open Source Web-based 3D Presentation Tool. (video)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-12-25T07:44:31Z",
+            "owner": "ertugrulcetin",
+            "repo": "immersa",
+            "stars": 487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue-BabylonJS",
+          "description": "A ready-to-go 3D environment for Vue.js using Babylon.js (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-02-11T05:37:55Z",
+            "owner": "Beg-in",
+            "repo": "vue-babylonjs",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Divine Voxel Engine",
+          "description": "A truly multi-threaded JavaScript voxel game engine written in TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-04T17:45:50Z",
+            "owner": "Divine-Star-Software",
+            "repo": "DivineVoxelEngine",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BabylonJS-CharacterController",
+          "description": "A CharacterController for Babylon.js (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-21T17:43:05Z",
+            "owner": "ssatguru",
+            "repo": "BabylonJS-CharacterController",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reactylon",
+          "description": "The React framework for XR. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T10:35:46Z",
+            "owner": "simonedevit",
+            "repo": "reactylon",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babylonjs-webpack-es6",
+          "description": "Babylon.js basic scene with typescript, webpack, es6 modules, editorconfig, eslint, hot loading and more. Will even make coffee if you ask nicely.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T11:03:11Z",
+            "owner": "RaananW",
+            "repo": "babylonjs-webpack-es6",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "t5c",
+          "description": "The 5th Continent - an open-source multiplayer 3D RPG. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-01T06:31:28Z",
+            "owner": "orion3dgames",
+            "repo": "t5c",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OceanDemo",
+          "description": "Ocean demo in WebGPU. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-23T07:44:44Z",
+            "owner": "Popov72",
+            "repo": "OceanDemo",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "multiplayer-babylon-js-game",
+          "description": "Multiplayer game with server and client-side physics engine synchronization. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-10T16:10:43Z",
+            "owner": "johannes-do",
+            "repo": "multiplayer-babylon-js-game",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BabylonFpsDemo",
+          "description": "A first-person shooter with Babylon.js (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-11T12:45:07Z",
+            "owner": "renjianfeng",
+            "repo": "BabylonFpsDemo",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babylon-mtoon-material",
+          "description": "Unity MToon Shader WebGL porting to Babylon.js. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-09T19:10:46Z",
+            "owner": "virtual-cast",
+            "repo": "babylon-mtoon-material",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "facecap",
+          "description": "Mediapipe face capture. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-01T20:57:34Z",
+            "owner": "imerso",
+            "repo": "facecap",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ergoudan",
+          "description": "Havok physics character controller demo. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-29T15:16:55Z",
+            "owner": "armomu",
+            "repo": "ergoudan",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babylonjs-typescript-webpack-starter",
+          "description": "A starter template for those who want to use the famous JavaScript 3D game engine Babylon.js with TypeScript and Webpack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T03:57:30Z",
+            "owner": "pandadelphin",
+            "repo": "babylonjs-typescript-webpack-starter",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nengi + Babylon 3D shooter template",
+          "description": "A template game for multiplayer 3D shooters made in Babylon.js + nengi.js with client-side prediction and lag compensation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-17T21:50:01Z",
+            "owner": "timetocode",
+            "repo": "nengi-babylon-3d-shooter",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multiplayer FPS-Game",
+          "description": "A Multiplayer FPS. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-28T05:57:06Z",
+            "owner": "johannes-do",
+            "repo": "FPS-Game",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tomb Raider Nostalgia",
+          "description": "View levels and play cut scenes for old Tomb Raider games 1/2/3/4. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-24T14:51:05Z",
+            "owner": "Popov72",
+            "repo": "TRN2",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yuka-babylonjs-examples",
+          "description": "Examples of using Yuka for Game AI. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-08T07:18:36Z",
+            "owner": "eldinor",
+            "repo": "yuka-babylonjs-examples",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oculus Quest Remote Desktop",
+          "description": "Remote desktop for Oculus Quest. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-03T22:43:59Z",
+            "owner": "shinyoshiaki",
+            "repo": "oculus-quest-remote-desktop",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BabylonJS Typescript Logic Examples",
+          "description": "A collection of small projects that show possible ways of handling game logic in a Babylon.js game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-25T23:58:00Z",
+            "owner": "DisownedWheat",
+            "repo": "BabylonJS-Game-Logic-Examples",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecsy-babylon",
+          "description": "Experimental Babylon.js implementation of ECSY.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-03T05:12:41Z",
+            "owner": "simonihmig",
+            "repo": "ecsy-babylon",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Molvwr",
+          "description": "WebGL molecule viewer. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-11-04T19:55:40Z",
+            "owner": "gleborgne",
+            "repo": "molvwr",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Christmas runner",
+          "description": "A Babylon.js game made for Christmas. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-12-09T12:41:20Z",
+            "owner": "Kimoen",
+            "repo": "Christmas-runner",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Babylon PostEffect Designer",
+          "description": "Full control of post effects adjustments in Babylon.js. Supports real-time post-effect adjustments, mesh import, and post-effect data sharing. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-29T13:27:19Z",
+            "owner": "HarveyLijh",
+            "repo": "Babylon_PostEffect_Designer_JL",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KZ Climbing",
+          "description": "A 3D platformer browser game prototype similar to \"KZ\" maps in Counter Strike. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-28T12:56:57Z",
+            "owner": "BabylonJSGames",
+            "repo": "BabylonJS-Platformer-Game-Prototype",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D Creator",
+          "description": "A prototype that shows how students (grades 7-12) can use block-based programming to create immersive 3D scenes. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-20T21:50:38Z",
+            "owner": "simonguest",
+            "repo": "3dcreator",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTML5 FPS",
+          "description": "Demo of an HTML5 first-person rig built on Babylon.js and React. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-13T21:18:41Z",
+            "owner": "csarkosh",
+            "repo": "html5-fps",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fps-babylon-js",
+          "description": "Online Multiplayer First Person Shooter with Babylon.js & SocketIO. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-12T09:06:52Z",
+            "owner": "Raigyo",
+            "repo": "fps-babylon-js",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-babylon-spring",
+          "description": "Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T22:55:52Z",
+            "owner": "hookex",
+            "repo": "react-babylon-spring",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Epic Guide",
+          "description": "A FPS game about going for a walk. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-06-09T16:02:11Z",
+            "owner": "Kimoen",
+            "repo": "Babylon.js-FPS",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VR Office Throwing Game",
+          "description": "A VR throwing game. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-07-28T09:38:30Z",
+            "owner": "wilcoschoneveld",
+            "repo": "office",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebXR Measuring Tape",
+          "description": ":zap: An Augmented Reality real-world length-measuring web app using the WebXR HitTarget feature. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-09-24T16:51:21Z",
+            "owner": "Narendra-Kamath",
+            "repo": "webxr-measuring-tape",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BABYDOOM",
+          "description": "Basic DOOM clone. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-02-26T19:34:14Z",
+            "owner": "Arc0re",
+            "repo": "arc0re.github.io",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babylon-demo",
+          "description": "Babylon.js demo for academic purposes. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-03-02T23:08:10Z",
+            "owner": "SvenFrankson",
+            "repo": "babylon-demo",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Babylon MCP Server",
+          "description": "A Model Context Protocol (MCP) server that provides AI agents with access to Babylon.js documentation, API references, and source code through semantic search.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-24T16:14:23Z",
+            "owner": "immersiveidea",
+            "repo": "babylon-mcp",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babylon-steering",
+          "description": "Steering behaviors library for moving entities in the x/z plane.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-02T12:52:02Z",
+            "owner": "LorenzoCorbella74",
+            "repo": "babylon-steering",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cannon-es-debugger-babylonjs",
+          "description": "This is a debugger for use with cannon-es. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-01-22T05:29:18Z",
+            "owner": "neu5",
+            "repo": "cannon-es-debugger-babylonjs",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glTF_Physics_Babylon",
+          "description": "Demonstrates filters, joints, and complex assets like a water wheel. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-20T15:58:02Z",
+            "owner": "eoineoineoin",
+            "repo": "glTF_Physics_Babylon",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webxr-depth-testbed-babylon",
+          "description": "Testbed for WebXR Depth Feature. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-10-12T12:24:24Z",
+            "owner": "drumath2237",
+            "repo": "webxr-depth-testbed-babylon",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kicker",
+          "description": "A soccer ball game made for Babylon.js February Challenge. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-02-19T20:46:39Z",
+            "owner": "Kimoen",
+            "repo": "kicker",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Babylon.js \"magic\" piano portal",
+          "description": "An augmented-reality WebXR animation of Chopin's \"Winter Wind\" Étude to hang on your wall! Works on flat-screen, too. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-25T15:08:57Z",
+            "owner": "docEdub",
+            "repo": "babylonjs-ar-piano-portal",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swarm",
+          "description": "A Babylon.js scene made for the screensaver jam. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-22T21:41:40Z",
+            "owner": "Kimoen",
+            "repo": "screensaver",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TanksBattle_WebGL_Using_Babylonjs",
+          "description": "3D Tanks Battle WebGL game. (video)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-06-11T09:22:26Z",
+            "owner": "khaledose",
+            "repo": "TanksBattle_WebGL_Using_Babylonjs",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BabylonJSFirstSteps",
+          "description": "You will find here my first steps on Babylon.js (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-09-10T20:34:31Z",
+            "owner": "topheman",
+            "repo": "BabylonJSFirstSteps",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babylonjs-webxr-template",
+          "description": "Babylon.js + TypeScript WebXR template project. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-11-14T00:43:17Z",
+            "owner": "yuiseki",
+            "repo": "babylonjs-webxr-template",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BabylonJS-Doom-Clone",
+          "description": "Doom-style game crafted with love. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-30T22:52:13Z",
+            "owner": "babylonjs-archive",
+            "repo": "doom-clone",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babylon_ragdoll_robi",
+          "description": "Babylon.js ragdoll robot. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-14T08:25:12Z",
+            "owner": "Takebon",
+            "repo": "babylon_ragdoll_robi",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D Tetris",
+          "description": "3D Tetris using the Babylon.js engine. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-30T23:55:45Z",
+            "owner": "babylonjs-archive",
+            "repo": "3d-tetris",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babylon-accessibility-example",
+          "description": "Example of how to add accessibility to 3D models. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-07T03:04:20Z",
+            "owner": "Symbitic",
+            "repo": "babylon-accessibility-example",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bomberman 3D",
+          "description": "Experimental game dev with Babylon.js and Angular 5. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-01-10T02:19:37Z",
+            "owner": "adisoftbn",
+            "repo": "Bomberman3D",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playlist Browser XR",
+          "description": "Browse Spotify playlists in Virtual Reality. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-07-18T12:33:33Z",
+            "owner": "Symbitic",
+            "repo": "PlaylistBrowserXR",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Space Jam: A New Legacy BabylonJS Mixed Reality Experience",
+          "description": "This repository pairs with the Babylon.js Mixed Reality module that is part of the Microsoft Learn learning path inspired by the Space Jam: A New Legacy film.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-20T16:58:49Z",
+            "owner": "microsoft",
+            "repo": "space-jam-a-new-legacy-babylonjs-template",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roblox meets film noir",
+          "description": "A 3D platform game demo using Babylon.js and React. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-10-12T06:48:52Z",
+            "owner": "TomWHall",
+            "repo": "babylon-js-platformer",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starship Flight Simulator",
+          "description": "Star Wars Arcade Tribute. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-08-28T00:54:09Z",
+            "owner": "ravendano014",
+            "repo": "starship",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "Demos of Babylon.js on the web.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Yuka Corridor Algorithm",
+          "description": "source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-08T07:18:36Z",
+            "owner": "eldinor",
+            "repo": "yuka-babylonjs-examples",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yuka First-Person Shooter",
+          "description": "source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-08T07:18:36Z",
+            "owner": "eldinor",
+            "repo": "yuka-babylonjs-examples",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yuka Hide And Seek Shooter",
+          "description": "source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-08T07:18:36Z",
+            "owner": "eldinor",
+            "repo": "yuka-babylonjs-examples",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yuka Navigation Mesh",
+          "description": "source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-08T07:18:36Z",
+            "owner": "eldinor",
+            "repo": "yuka-babylonjs-examples",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yuka Navmesh Performance",
+          "description": "source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-08T07:18:36Z",
+            "owner": "eldinor",
+            "repo": "yuka-babylonjs-examples",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yuka Savegames",
+          "description": "source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-08T07:18:36Z",
+            "owner": "eldinor",
+            "repo": "yuka-babylonjs-examples",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yuka Tic-Tac-Toe",
+          "description": "source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-08T07:18:36Z",
+            "owner": "eldinor",
+            "repo": "yuka-babylonjs-examples",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Star Fighter",
+          "description": "JS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-02-24T15:27:45Z",
+            "owner": "jbousquie",
+            "repo": "OfficeGames",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Examples"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:59:36.167Z",
+    "original_repository": "Symbitic/awesome-babylonjs",
+    "original_repository_sha": "33c0202a11db5f43833b63b79e801e911897fdcb",
+    "enhanced_repository": "enhansome/enhansome-babylonjs",
+    "enhanced_repository_description": null,
+    "title": "Awesome Babylon.js with stars"
+  }
+}
