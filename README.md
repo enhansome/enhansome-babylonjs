@@ -39,7 +39,7 @@
 * [Partners Using Babylon.js](https://www.babylonjs.com/partners/)
 * [Specifications](https://www.babylonjs.com/specifications/)
 * Social Media
-  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 25,920 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-12
+  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 25,926 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-13
   * [Medium](https://babylonjs.medium.com/)
   * [Twitter](https://twitter.com/babylonjs)
   * [YouTube Channel](https://www.youtube.com/channel/UCyOemMa5EJkIgVavJjSCLKQ)
@@ -267,7 +267,7 @@
 
 *Open source projects using Babylon.js*
 
-* [react-babylonjs](https://github.com/brianzinn/react-babylonjs) ⭐ 888 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-02 - React for Babylon.js ([demo](https://brianzinn.github.io/react-babylonjs/))
+* [react-babylonjs](https://github.com/brianzinn/react-babylonjs) ⭐ 889 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-02 - React for Babylon.js ([demo](https://brianzinn.github.io/react-babylonjs/))
 * [Immersa](https://github.com/ertugrulcetin/immersa) ⭐ 487 | 🐛 2 | 🌐 Clojure | 📅 2025-12-25 - Open Source Web-based 3D Presentation Tool. ([video](https://www.youtube.com/watch?v=1yjtpf59jv0))
 * [Vue-BabylonJS](https://github.com/Beg-in/vue-babylonjs) ⚠️ Archived - A ready-to-go 3D environment for Vue.js using Babylon.js ([demo](https://vuebabylonjs.com/))
 * [Divine Voxel Engine](https://github.com/Divine-Star-Software/DivineVoxelEngine) ⭐ 261 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-04 - A truly multi-threaded JavaScript voxel game engine written in TypeScript.

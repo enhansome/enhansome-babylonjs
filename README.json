@@ -1166,7 +1166,7 @@
             "last_commit": "2026-06-02T13:56:21Z",
             "owner": "brianzinn",
             "repo": "react-babylonjs",
-            "stars": 888
+            "stars": 889
           }
         },
         {
@@ -2048,7 +2048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:59:36.167Z",
+    "last_updated": "2026-08-13T23:51:34.814Z",
     "original_repository": "Symbitic/awesome-babylonjs",
     "original_repository_sha": "33c0202a11db5f43833b63b79e801e911897fdcb",
     "enhanced_repository": "enhansome/enhansome-babylonjs",
