@@ -933,7 +933,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T20:42:05Z",
+            "last_commit": "2026-08-16T21:24:36Z",
             "owner": "BarthPaleologue",
             "repo": "CosmosJourneyer",
             "stars": 50
@@ -1208,7 +1208,7 @@
             "last_commit": "2026-07-04T17:45:50Z",
             "owner": "Divine-Star-Software",
             "repo": "DivineVoxelEngine",
-            "stars": 261
+            "stars": 262
           }
         },
         {
@@ -2048,7 +2048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:27:34.122Z",
+    "last_updated": "2026-08-16T23:27:35.545Z",
     "original_repository": "Symbitic/awesome-babylonjs",
     "original_repository_sha": "33c0202a11db5f43833b63b79e801e911897fdcb",
     "enhanced_repository": "enhansome/enhansome-babylonjs",
