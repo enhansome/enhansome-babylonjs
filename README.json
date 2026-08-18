@@ -866,7 +866,7 @@
             "last_commit": "2022-05-10T18:47:49Z",
             "owner": "BabylonJS",
             "repo": "SpacePirates",
-            "stars": 161
+            "stars": 160
           }
         },
         {
@@ -880,7 +880,7 @@
             "last_commit": "2026-03-25T13:13:57Z",
             "owner": "BabylonJS",
             "repo": "SummerFestival",
-            "stars": 140
+            "stars": 139
           }
         },
         {
@@ -908,7 +908,7 @@
             "last_commit": "2022-04-11T12:47:09Z",
             "owner": "renjianfeng",
             "repo": "F18FlightSimulator-ammojs",
-            "stars": 84
+            "stars": 85
           }
         },
         {
@@ -933,7 +933,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T09:00:31Z",
+            "last_commit": "2026-08-18T16:48:45Z",
             "owner": "BarthPaleologue",
             "repo": "CosmosJourneyer",
             "stars": 50
@@ -1194,7 +1194,7 @@
             "last_commit": "2023-02-11T05:37:55Z",
             "owner": "Beg-in",
             "repo": "vue-babylonjs",
-            "stars": 461
+            "stars": 460
           }
         },
         {
@@ -1292,7 +1292,7 @@
             "last_commit": "2022-12-10T16:10:43Z",
             "owner": "johannes-do",
             "repo": "multiplayer-babylon-js-game",
-            "stars": 113
+            "stars": 112
           }
         },
         {
@@ -1320,7 +1320,7 @@
             "last_commit": "2024-01-09T19:10:46Z",
             "owner": "virtual-cast",
             "repo": "babylon-mtoon-material",
-            "stars": 77
+            "stars": 76
           }
         },
         {
@@ -1418,7 +1418,7 @@
             "last_commit": "2022-07-08T07:18:36Z",
             "owner": "eldinor",
             "repo": "yuka-babylonjs-examples",
-            "stars": 52
+            "stars": 51
           }
         },
         {
@@ -1443,7 +1443,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-25T23:58:00Z",
+            "last_commit": "2026-08-18T01:14:37Z",
             "owner": "DisownedWheat",
             "repo": "BabylonJS-Game-Logic-Examples",
             "stars": 39
@@ -1942,7 +1942,7 @@
             "last_commit": "2022-07-08T07:18:36Z",
             "owner": "eldinor",
             "repo": "yuka-babylonjs-examples",
-            "stars": 52
+            "stars": 51
           }
         },
         {
@@ -1956,7 +1956,7 @@
             "last_commit": "2022-07-08T07:18:36Z",
             "owner": "eldinor",
             "repo": "yuka-babylonjs-examples",
-            "stars": 52
+            "stars": 51
           }
         },
         {
@@ -1970,7 +1970,7 @@
             "last_commit": "2022-07-08T07:18:36Z",
             "owner": "eldinor",
             "repo": "yuka-babylonjs-examples",
-            "stars": 52
+            "stars": 51
           }
         },
         {
@@ -1984,7 +1984,7 @@
             "last_commit": "2022-07-08T07:18:36Z",
             "owner": "eldinor",
             "repo": "yuka-babylonjs-examples",
-            "stars": 52
+            "stars": 51
           }
         },
         {
@@ -1998,7 +1998,7 @@
             "last_commit": "2022-07-08T07:18:36Z",
             "owner": "eldinor",
             "repo": "yuka-babylonjs-examples",
-            "stars": 52
+            "stars": 51
           }
         },
         {
@@ -2012,7 +2012,7 @@
             "last_commit": "2022-07-08T07:18:36Z",
             "owner": "eldinor",
             "repo": "yuka-babylonjs-examples",
-            "stars": 52
+            "stars": 51
           }
         },
         {
@@ -2026,7 +2026,7 @@
             "last_commit": "2022-07-08T07:18:36Z",
             "owner": "eldinor",
             "repo": "yuka-babylonjs-examples",
-            "stars": 52
+            "stars": 51
           }
         },
         {
@@ -2048,7 +2048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:29:39.496Z",
+    "last_updated": "2026-08-18T23:29:25.861Z",
     "original_repository": "Symbitic/awesome-babylonjs",
     "original_repository_sha": "33c0202a11db5f43833b63b79e801e911897fdcb",
     "enhanced_repository": "enhansome/enhansome-babylonjs",

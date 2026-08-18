@@ -39,7 +39,7 @@
 * [Partners Using Babylon.js](https://www.babylonjs.com/partners/)
 * [Specifications](https://www.babylonjs.com/specifications/)
 * Social Media
-  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 25,938 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-14
+  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 25,943 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-14
   * [Medium](https://babylonjs.medium.com/)
   * [Twitter](https://twitter.com/babylonjs)
   * [YouTube Channel](https://www.youtube.com/channel/UCyOemMa5EJkIgVavJjSCLKQ)
@@ -242,11 +242,11 @@
 *Open source games built with Babylon.js*
 
 * [Space Pirates](https://github.com/BabylonJS/SpacePirates) ⚠️ Archived - Shoot down pirates in space. ([demo](https://spacepirates.babylonjs.com/))
-* [Summer's Festival](https://github.com/BabylonJS/SummerFestival) ⭐ 140 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-25 - Source code for the game tutorial written by capucat. ([demo](https://capucat.github.io/summers-festival/))
+* [Summer's Festival](https://github.com/BabylonJS/SummerFestival) ⭐ 139 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-25 - Source code for the game tutorial written by capucat. ([demo](https://capucat.github.io/summers-festival/))
 * [VoxelSrv](https://github.com/VoxelSrv/voxelsrv) ⚠️ Archived - Voxel browser game inspired by Minecraft. ([demo](http://voxelsrv-master.pb4.eu/))
-* [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) ⭐ 84 | 🐛 1 | 🌐 TypeScript | 📅 2022-04-11 - Simulation driving of F18 Fighter. ([demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html))
+* [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) ⭐ 85 | 🐛 1 | 🌐 TypeScript | 📅 2022-04-11 - Simulation driving of F18 Fighter. ([demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html))
 * [Space Truckers](https://github.com/jelster/space-truckers) ⭐ 60 | 🐛 22 | 🌐 JavaScript | 📅 2023-08-27 - A game of getting stuff from Point A to Point B... IN SPAAAACCE! ([demo](https://space-truckers.com/))
-* [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer) ⭐ 50 | 🐛 94 | 🌐 TypeScript | 📅 2026-08-17 - Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. ([demo](https://cosmosjourneyer.com/))
+* [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer) ⭐ 50 | 🐛 93 | 🌐 TypeScript | 📅 2026-08-18 - Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. ([demo](https://cosmosjourneyer.com/))
 * [Space Invaders](https://github.com/johnpitchers/Space-Invaders) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-23 - Space Invaders in your browser with 3D WebGL. ([demo](https://spaceinvaders.viperfish.com.au/))
 * [Planet Builder](https://github.com/SvenFrankson/planet-builder-web) ⭐ 30 | 🐛 1 | 🌐 JavaScript | 📅 2023-04-22 - Spherical Voxel Engine demo with a robot hand. ([demo](https://svenfrankson.github.io/PlanetBuilder2022/index.html))
 * [Defend](https://github.com/xtreemze/defend) ⭐ 24 | 🐛 22 | 🌐 Java | 📅 2022-12-10 - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. ([demo](https://xtreemze.github.io/defend/))
@@ -276,18 +276,18 @@
 * [babylonjs-webpack-es6](https://github.com/RaananW/babylonjs-webpack-es6) ⭐ 206 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-15 - Babylon.js basic scene with typescript, webpack, es6 modules, editorconfig, eslint, hot loading and more. Will even make coffee if you ask nicely.
 * [t5c](https://github.com/orion3dgames/t5c) ⭐ 180 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-01 - The 5th Continent - an open-source multiplayer 3D RPG. ([demo](https://t5c.onrender.com/))
 * [OceanDemo](https://github.com/Popov72/OceanDemo) ⭐ 145 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-23 - Ocean demo in WebGPU. ([demo](https://popov72.github.io/OceanDemo/dist/index.html))
-* [multiplayer-babylon-js-game](https://github.com/aeon0/multiplayer-babylon-js-game) ⭐ 113 | 🐛 6 | 🌐 TypeScript | 📅 2022-12-10 - Multiplayer game with server and client-side physics engine synchronization. ([demo](http://185.82.21.82:8700/))
+* [multiplayer-babylon-js-game](https://github.com/aeon0/multiplayer-babylon-js-game) ⭐ 112 | 🐛 6 | 🌐 TypeScript | 📅 2022-12-10 - Multiplayer game with server and client-side physics engine synchronization. ([demo](http://185.82.21.82:8700/))
 * [BabylonFpsDemo](https://github.com/renjianfeng/BabylonFpsDemo) ⭐ 98 | 🐛 2 | 🌐 JavaScript | 📅 2017-12-11 - A first-person shooter with Babylon.js ([demo](https://renjianfeng.github.io/BabylonFpsDemo/example/index.html))
-* [babylon-mtoon-material](https://github.com/virtual-cast/babylon-mtoon-material) ⭐ 77 | 🐛 9 | 🌐 TypeScript | 📅 2024-01-09 - Unity MToon Shader WebGL porting to Babylon.js. ([demo](https://virtual-cast.github.io/babylon-mtoon-material/))
+* [babylon-mtoon-material](https://github.com/virtual-cast/babylon-mtoon-material) ⭐ 76 | 🐛 9 | 🌐 TypeScript | 📅 2024-01-09 - Unity MToon Shader WebGL porting to Babylon.js. ([demo](https://virtual-cast.github.io/babylon-mtoon-material/))
 * [facecap](https://github.com/imerso/facecap) ⭐ 73 | 🐛 1 | 🌐 JavaScript | 📅 2023-02-01 - Mediapipe face capture. ([demo](https://imerso.github.io/babylon.js/facecap/))
 * [ergoudan](https://github.com/armomu/ergoudan) ⭐ 70 | 🐛 6 | 🌐 TypeScript | 📅 2026-01-29 - Havok physics character controller demo. ([demo](https://armomu.github.io/ergoudan/#/))
 * [babylonjs-typescript-webpack-starter](https://github.com/pandadelphin/babylonjs-typescript-webpack-starter) ⭐ 64 | 🐛 13 | 🌐 TypeScript | 📅 2023-01-07 - A starter template for those who want to use the famous JavaScript 3D game engine Babylon.js with TypeScript and Webpack.
 * [nengi + Babylon 3D shooter template](https://github.com/timetocode/nengi-babylon-3d-shooter) ⭐ 55 | 🐛 6 | 🌐 JavaScript | 📅 2021-07-17 - A template game for multiplayer 3D shooters made in Babylon.js + nengi.js with client-side prediction and lag compensation.
 * [Multiplayer FPS-Game](https://github.com/aeon0/FPS-Game) ⭐ 54 | 🐛 0 | 🌐 JavaScript | 📅 2021-10-28 - A Multiplayer FPS. ([demo](http://185.82.21.82/FPS-Game/public/))
 * [Tomb Raider Nostalgia](https://github.com/Popov72/TRN2) ⭐ 54 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-24 - View levels and play cut scenes for old Tomb Raider games 1/2/3/4. ([demo](https://popov72.github.io/TRN2/))
-* [yuka-babylonjs-examples](https://github.com/eldinor/yuka-babylonjs-examples) ⭐ 52 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-08 - Examples of using Yuka for Game AI. ([demo](https://yuka.babylonpress.org/))
+* [yuka-babylonjs-examples](https://github.com/eldinor/yuka-babylonjs-examples) ⭐ 51 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-08 - Examples of using Yuka for Game AI. ([demo](https://yuka.babylonpress.org/))
 * [Oculus Quest Remote Desktop](https://github.com/shinyoshiaki/oculus-quest-remote-desktop) ⭐ 41 | 🐛 47 | 🌐 TypeScript | 📅 2023-01-03 - Remote desktop for Oculus Quest. ([demo](https://shinyoshiaki.github.io/oculus-quest-remote-desktop/build/))
-* [BabylonJS Typescript Logic Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) ⭐ 39 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-25 - A collection of small projects that show possible ways of handling game logic in a Babylon.js game.
+* [BabylonJS Typescript Logic Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) ⭐ 39 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-18 - A collection of small projects that show possible ways of handling game logic in a Babylon.js game.
 * [ecsy-babylon](https://github.com/kaliber5/ecsy-babylon) ⭐ 39 | 🐛 17 | 🌐 TypeScript | 📅 2023-02-03 - Experimental Babylon.js implementation of ECSY.
 * [Molvwr](https://github.com/gleborgne/molvwr) ⭐ 33 | 🐛 4 | 🌐 JavaScript | 📅 2015-11-04 - WebGL molecule viewer. ([demo](https://gleborgne.github.io/molvwr/))
 * [Christmas runner](https://github.com/Temechon/Christmas-runner) ⭐ 27 | 🐛 0 | 🌐 JavaScript | 📅 2015-12-09 - A Babylon.js game made for Christmas. ([demo](http://pixelcodr.com/games/christmasRunner/))
@@ -328,13 +328,13 @@
 
 *Demos of Babylon.js on the web.*
 
-* [Yuka Corridor Algorithm](https://yuka.babylonpress.org/examples/js/graph/corridor/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/graph/corridor) ⭐ 52 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-08
-* [Yuka First-Person Shooter](https://yuka.babylonpress.org/examples/js/playground/shooter/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/playground/shooter) ⭐ 52 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-08
-* [Yuka Hide And Seek Shooter](https://yuka.babylonpress.org/examples/js/playground/hideAndSeek/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/playground/hideAndSeek) ⭐ 52 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-08
-* [Yuka Navigation Mesh](https://yuka.babylonpress.org/examples/js/navigation/navmesh/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/navigation/navmesh) ⭐ 52 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-08
-* [Yuka Navmesh Performance](https://yuka.babylonpress.org/examples/js/navigation/navmeshPerformance/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/navigation/navmeshPerformance) ⭐ 52 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-08
-* [Yuka Savegames](https://yuka.babylonpress.org/examples/js/misc/savegame/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/misc/savegame) ⭐ 52 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-08
-* [Yuka Tic-Tac-Toe](https://yuka.babylonpress.org/examples/js/graph/tictactoe/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/graph/tictactoe) ⭐ 52 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-08
+* [Yuka Corridor Algorithm](https://yuka.babylonpress.org/examples/js/graph/corridor/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/graph/corridor) ⭐ 51 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-08
+* [Yuka First-Person Shooter](https://yuka.babylonpress.org/examples/js/playground/shooter/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/playground/shooter) ⭐ 51 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-08
+* [Yuka Hide And Seek Shooter](https://yuka.babylonpress.org/examples/js/playground/hideAndSeek/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/playground/hideAndSeek) ⭐ 51 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-08
+* [Yuka Navigation Mesh](https://yuka.babylonpress.org/examples/js/navigation/navmesh/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/navigation/navmesh) ⭐ 51 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-08
+* [Yuka Navmesh Performance](https://yuka.babylonpress.org/examples/js/navigation/navmeshPerformance/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/navigation/navmeshPerformance) ⭐ 51 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-08
+* [Yuka Savegames](https://yuka.babylonpress.org/examples/js/misc/savegame/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/misc/savegame) ⭐ 51 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-08
+* [Yuka Tic-Tac-Toe](https://yuka.babylonpress.org/examples/js/graph/tictactoe/) - [source](https://github.com/eldinor/yuka-babylonjs-examples/tree/main/examples/js/graph/tictactoe) ⭐ 51 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-08
 * [Star Fighter](http://jerome.bousquie.fr/BJS/OfficeGames/StarFighter/StarFighter.html) - [JS](https://github.com/jbousquie/OfficeGames/blob/master/StarFighter/StarFighter.js) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2020-02-24
 * [Roller coaster](https://jerome.bousquie.fr/BJS/demos/rollercoaster.html) - [JS](https://jerome.bousquie.fr/BJS/demos/rollercoaster.js)
 * [Blowing Wall](https://jerome.bousquie.fr/BJS/demos/blow.html) - [JS](https://jerome.bousquie.fr/BJS/demos/blow.js)
@@ -377,4 +377,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
