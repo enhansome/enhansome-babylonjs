@@ -39,7 +39,7 @@
 * [Partners Using Babylon.js](https://www.babylonjs.com/partners/)
 * [Specifications](https://www.babylonjs.com/specifications/)
 * Social Media
-  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 25,977 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-24
+  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 25,979 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-24
   * [Medium](https://babylonjs.medium.com/)
   * [Twitter](https://twitter.com/babylonjs)
   * [YouTube Channel](https://www.youtube.com/channel/UCyOemMa5EJkIgVavJjSCLKQ)
