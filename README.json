@@ -999,7 +999,7 @@
             "archived": false,
             "id": 351859028,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T16:39:09Z",
+            "last_commit": "2026-08-26T10:14:25Z",
             "owner": "BarthPaleologue",
             "repo": "CosmosJourneyer",
             "stars": 50
@@ -2192,7 +2192,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:31:13.460Z",
+    "last_updated": "2026-08-27T04:28:14.918Z",
     "original_repository": "Symbitic/awesome-babylonjs",
     "original_repository_id": 366793984,
     "original_repository_sha": "33c0202a11db5f43833b63b79e801e911897fdcb",
