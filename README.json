@@ -1699,7 +1699,7 @@
             "id": 351859028,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-30T18:48:25Z",
+            "last_commit": "2026-08-31T16:39:04Z",
             "open_issues": 98,
             "owner": "BarthPaleologue",
             "repo": "CosmosJourneyer",
@@ -2224,7 +2224,7 @@
             "open_issues": 1,
             "owner": "simonedevit",
             "repo": "reactylon",
-            "stars": 237,
+            "stars": 238,
             "topics": [
               "ar",
               "babylonjs",
@@ -3620,7 +3620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T01:19:56.630Z",
+    "last_updated": "2026-09-01T01:46:03.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
@@ -3632,7 +3632,7 @@
       "open_issues": 1,
       "owner": "Symbitic",
       "repo": "awesome-babylonjs",
-      "stars": 356,
+      "stars": 357,
       "topics": [
         "awesome",
         "awesome-list",
