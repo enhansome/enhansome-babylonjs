@@ -2088,7 +2088,7 @@
             "open_issues": 9,
             "owner": "brianzinn",
             "repo": "react-babylonjs",
-            "stars": 890,
+            "stars": 889,
             "topics": [
               "3d",
               "3d-engine",
@@ -2595,8 +2595,8 @@
             "id": 261591771,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-08-18T01:14:37Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-01T16:51:03Z",
+            "open_issues": 4,
             "owner": "DisownedWheat",
             "repo": "BabylonJS-Game-Logic-Examples",
             "stars": 39,
@@ -3620,7 +3620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:46:03.409Z",
+    "last_updated": "2026-09-02T00:57:48.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",

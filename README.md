@@ -39,7 +39,7 @@
 * [Partners Using Babylon.js](https://www.babylonjs.com/partners/)
 * [Specifications](https://www.babylonjs.com/specifications/)
 * Social Media
-  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,000 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-01
+  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,002 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-01
   * [Medium](https://babylonjs.medium.com/)
   * [Twitter](https://twitter.com/babylonjs)
   * [YouTube Channel](https://www.youtube.com/channel/UCyOemMa5EJkIgVavJjSCLKQ)
@@ -267,7 +267,7 @@
 
 *Open source projects using Babylon.js*
 
-* [react-babylonjs](https://github.com/brianzinn/react-babylonjs) ⭐ 890 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-02 - React for Babylon.js ([demo](https://brianzinn.github.io/react-babylonjs/))
+* [react-babylonjs](https://github.com/brianzinn/react-babylonjs) ⭐ 889 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-02 - React for Babylon.js ([demo](https://brianzinn.github.io/react-babylonjs/))
 * [Immersa](https://github.com/ertugrulcetin/immersa) ⭐ 487 | 🐛 2 | 🌐 Clojure | 📅 2025-12-25 - Open Source Web-based 3D Presentation Tool. ([video](https://www.youtube.com/watch?v=1yjtpf59jv0))
 * [Vue-BabylonJS](https://github.com/Beg-in/vue-babylonjs) ⚠️ Archived - A ready-to-go 3D environment for Vue.js using Babylon.js ([demo](https://vuebabylonjs.com/))
 * [Divine Voxel Engine](https://github.com/Divine-Star-Software/DivineVoxelEngine) ⭐ 264 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-04 - A truly multi-threaded JavaScript voxel game engine written in TypeScript.
@@ -287,7 +287,7 @@
 * [Tomb Raider Nostalgia](https://github.com/Popov72/TRN2) ⭐ 54 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-24 - View levels and play cut scenes for old Tomb Raider games 1/2/3/4. ([demo](https://popov72.github.io/TRN2/))
 * [yuka-babylonjs-examples](https://github.com/eldinor/yuka-babylonjs-examples) ⭐ 51 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-08 - Examples of using Yuka for Game AI. ([demo](https://yuka.babylonpress.org/))
 * [Oculus Quest Remote Desktop](https://github.com/shinyoshiaki/oculus-quest-remote-desktop) ⭐ 41 | 🐛 47 | 🌐 TypeScript | 📅 2023-01-03 - Remote desktop for Oculus Quest. ([demo](https://shinyoshiaki.github.io/oculus-quest-remote-desktop/build/))
-* [BabylonJS Typescript Logic Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) ⭐ 39 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-18 - A collection of small projects that show possible ways of handling game logic in a Babylon.js game.
+* [BabylonJS Typescript Logic Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) ⭐ 39 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-01 - A collection of small projects that show possible ways of handling game logic in a Babylon.js game.
 * [ecsy-babylon](https://github.com/kaliber5/ecsy-babylon) ⭐ 39 | 🐛 17 | 🌐 TypeScript | 📅 2023-02-03 - Experimental Babylon.js implementation of ECSY.
 * [Molvwr](https://github.com/gleborgne/molvwr) ⭐ 33 | 🐛 4 | 🌐 JavaScript | 📅 2015-11-04 - WebGL molecule viewer. ([demo](https://gleborgne.github.io/molvwr/))
 * [Christmas runner](https://github.com/Temechon/Christmas-runner) ⭐ 27 | 🐛 0 | 🌐 JavaScript | 📅 2015-12-09 - A Babylon.js game made for Christmas. ([demo](http://pixelcodr.com/games/christmasRunner/))
@@ -377,4 +377,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
