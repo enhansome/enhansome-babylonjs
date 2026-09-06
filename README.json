@@ -1627,7 +1627,7 @@
             "open_issues": 7,
             "owner": "VoxelSrv",
             "repo": "voxelsrv",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "browser-game",
               "js-game",
@@ -1699,7 +1699,7 @@
             "id": 351859028,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T14:29:25Z",
+            "last_commit": "2026-09-05T09:17:58Z",
             "open_issues": 99,
             "owner": "BarthPaleologue",
             "repo": "CosmosJourneyer",
@@ -2118,7 +2118,7 @@
             "open_issues": 2,
             "owner": "ertugrulcetin",
             "repo": "immersa",
-            "stars": 487,
+            "stars": 488,
             "topics": []
           },
           "first_seen": "2026-08-28T06:51:24.297Z"
@@ -3620,7 +3620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T00:48:36.907Z",
+    "last_updated": "2026-09-06T00:47:42.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
