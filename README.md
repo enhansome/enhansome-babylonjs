@@ -39,7 +39,7 @@
 * [Partners Using Babylon.js](https://www.babylonjs.com/partners/)
 * [Specifications](https://www.babylonjs.com/specifications/)
 * Social Media
-  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,026 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-04
+  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,032 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-04
   * [Medium](https://babylonjs.medium.com/)
   * [Twitter](https://twitter.com/babylonjs)
   * [YouTube Channel](https://www.youtube.com/channel/UCyOemMa5EJkIgVavJjSCLKQ)
@@ -246,7 +246,7 @@
 * [VoxelSrv](https://github.com/VoxelSrv/voxelsrv) ⚠️ Archived - Voxel browser game inspired by Minecraft. ([demo](http://voxelsrv-master.pb4.eu/))
 * [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) ⭐ 85 | 🐛 1 | 🌐 TypeScript | 📅 2022-04-11 - Simulation driving of F18 Fighter. ([demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html))
 * [Space Truckers](https://github.com/jelster/space-truckers) ⭐ 60 | 🐛 22 | 🌐 JavaScript | 📅 2023-08-27 - A game of getting stuff from Point A to Point B... IN SPAAAACCE! ([demo](https://space-truckers.com/))
-* [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer) ⭐ 51 | 🐛 99 | 🌐 TypeScript | 📅 2026-09-05 - Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. ([demo](https://cosmosjourneyer.com/))
+* [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer) ⭐ 52 | 🐛 99 | 🌐 TypeScript | 📅 2026-09-06 - Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. ([demo](https://cosmosjourneyer.com/))
 * [Space Invaders](https://github.com/johnpitchers/Space-Invaders) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-23 - Space Invaders in your browser with 3D WebGL. ([demo](https://spaceinvaders.viperfish.com.au/))
 * [Planet Builder](https://github.com/SvenFrankson/planet-builder-web) ⭐ 30 | 🐛 1 | 🌐 JavaScript | 📅 2023-04-22 - Spherical Voxel Engine demo with a robot hand. ([demo](https://svenfrankson.github.io/PlanetBuilder2022/index.html))
 * [Defend](https://github.com/xtreemze/defend) ⭐ 25 | 🐛 98 | 🌐 Java | 📅 2026-09-04 - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. ([demo](https://xtreemze.github.io/defend/))
@@ -255,7 +255,7 @@
 * [Theasis](https://github.com/ThanosRestas/Theasis) ⭐ 18 | 🐛 11 | 🌐 JavaScript | 📅 2021-10-06 - FPS game. ([demo](https://thanosrestas.github.io/Theasis/dist/index.html))
 * [Block](https://github.com/Temechon/block) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2015-11-20 - A block puzzle game. ([demo](http://pixelcodr.com/games/block/game.html))
 * [Alien Cargo](https://github.com/vudugun/AlienCargo) ⭐ 9 | 🐛 10 | 🌐 JavaScript | 📅 2023-01-03 - A WebGL 3D game inspired by the classic puzzle game Sokoban. ([demo](https://vudugun.github.io/AlienCargo/))
-* [Attack of the Killer Bunnies](https://github.com/farmersanonymous/killer-bunnies) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2022-07-21 - Where bunnies go to die. ([demo](https://ericbroberic.itch.io/attack-of-the-killer-bunnies))
+* [Attack of the Killer Bunnies](https://github.com/farmersanonymous/killer-bunnies) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2022-07-21 - Where bunnies go to die. ([demo](https://ericbroberic.itch.io/attack-of-the-killer-bunnies))
 * [Barkanoid](https://github.com/pigmin/Breakout) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2024-01-20 - Arkanoid / Breakout clone with cinematic opening. ([demo](https://pigmin.github.io/Breakout/))
 * [Cube Endless Runner](https://github.com/babylonjs-archive/endless-runner-3d) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2024-04-02 - Cube Endless Runner is a 3D game built on top of WebGL and HTML5 technologies. ([demo](https://babylonjs-archive.github.io/endless-runner-3d/))
 * [Simple 3D FPS](https://github.com/babylonjs-archive/simple-3d-fps) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2024-04-04 - A simple FPS game following Clean Code principles. ([demo](https://babylonjs-archive.github.io/simple-3d-fps/))
@@ -377,4 +377,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
