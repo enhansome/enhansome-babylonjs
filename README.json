@@ -1699,7 +1699,7 @@
             "id": 351859028,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-06T11:04:27Z",
+            "last_commit": "2026-09-07T17:56:50Z",
             "open_issues": 99,
             "owner": "BarthPaleologue",
             "repo": "CosmosJourneyer",
@@ -1773,8 +1773,8 @@
             "id": 134579330,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T14:20:51Z",
-            "open_issues": 98,
+            "last_commit": "2026-09-07T12:07:49Z",
+            "open_issues": 99,
             "owner": "xtreemze",
             "repo": "defend",
             "stars": 25,
@@ -2309,7 +2309,7 @@
             "open_issues": 0,
             "owner": "Popov72",
             "repo": "OceanDemo",
-            "stars": 145,
+            "stars": 146,
             "topics": []
           },
           "first_seen": "2026-08-28T06:51:24.297Z"
@@ -3620,7 +3620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T00:50:28.109Z",
+    "last_updated": "2026-09-08T01:06:09.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
@@ -3632,7 +3632,7 @@
       "open_issues": 1,
       "owner": "Symbitic",
       "repo": "awesome-babylonjs",
-      "stars": 359,
+      "stars": 357,
       "topics": [
         "awesome",
         "awesome-list",
