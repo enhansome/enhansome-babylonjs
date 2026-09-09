@@ -39,7 +39,7 @@
 * [Partners Using Babylon.js](https://www.babylonjs.com/partners/)
 * [Specifications](https://www.babylonjs.com/specifications/)
 * Social Media
-  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,036 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-04
+  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,040 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-08
   * [Medium](https://babylonjs.medium.com/)
   * [Twitter](https://twitter.com/babylonjs)
   * [YouTube Channel](https://www.youtube.com/channel/UCyOemMa5EJkIgVavJjSCLKQ)
@@ -246,10 +246,10 @@
 * [VoxelSrv](https://github.com/VoxelSrv/voxelsrv) ⚠️ Archived - Voxel browser game inspired by Minecraft. ([demo](http://voxelsrv-master.pb4.eu/))
 * [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) ⭐ 85 | 🐛 1 | 🌐 TypeScript | 📅 2022-04-11 - Simulation driving of F18 Fighter. ([demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html))
 * [Space Truckers](https://github.com/jelster/space-truckers) ⭐ 60 | 🐛 22 | 🌐 JavaScript | 📅 2023-08-27 - A game of getting stuff from Point A to Point B... IN SPAAAACCE! ([demo](https://space-truckers.com/))
-* [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer) ⭐ 52 | 🐛 99 | 🌐 TypeScript | 📅 2026-09-07 - Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. ([demo](https://cosmosjourneyer.com/))
+* [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer) ⭐ 53 | 🐛 99 | 🌐 TypeScript | 📅 2026-09-08 - Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. ([demo](https://cosmosjourneyer.com/))
 * [Space Invaders](https://github.com/johnpitchers/Space-Invaders) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-23 - Space Invaders in your browser with 3D WebGL. ([demo](https://spaceinvaders.viperfish.com.au/))
 * [Planet Builder](https://github.com/SvenFrankson/planet-builder-web) ⭐ 30 | 🐛 1 | 🌐 JavaScript | 📅 2023-04-22 - Spherical Voxel Engine demo with a robot hand. ([demo](https://svenfrankson.github.io/PlanetBuilder2022/index.html))
-* [Defend](https://github.com/xtreemze/defend) ⭐ 25 | 🐛 99 | 🌐 Java | 📅 2026-09-07 - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. ([demo](https://xtreemze.github.io/defend/))
+* [Defend](https://github.com/xtreemze/defend) ⭐ 25 | 🐛 100 | 🌐 Java | 📅 2026-09-08 - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. ([demo](https://xtreemze.github.io/defend/))
 * [Light Speed Ready!](https://github.com/Xanmia/Light-Speed-Ready) ⭐ 21 | 🐛 6 | 🌐 JavaScript | 📅 2014-05-09 - A spaceship game of gathering resources and leveling your ship. ([demo](https://www.kraem.com/Light-Speed-Ready/game.html))
 * [Hide and Seek Demo](https://github.com/colyseus/babylonjs-hide-and-seek) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2022-10-21 - Multiplayer Hide-and-Seek made with BabylonJS and Colyseus. ([demo](https://docs.colyseus.io/colyseus/demo/babylonjs-editor/hide-and-seek/))
 * [Theasis](https://github.com/ThanosRestas/Theasis) ⭐ 18 | 🐛 11 | 🌐 JavaScript | 📅 2021-10-06 - FPS game. ([demo](https://thanosrestas.github.io/Theasis/dist/index.html))
@@ -268,7 +268,7 @@
 *Open source projects using Babylon.js*
 
 * [react-babylonjs](https://github.com/brianzinn/react-babylonjs) ⭐ 889 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-02 - React for Babylon.js ([demo](https://brianzinn.github.io/react-babylonjs/))
-* [Immersa](https://github.com/ertugrulcetin/immersa) ⭐ 488 | 🐛 2 | 🌐 Clojure | 📅 2025-12-25 - Open Source Web-based 3D Presentation Tool. ([video](https://www.youtube.com/watch?v=1yjtpf59jv0))
+* [Immersa](https://github.com/ertugrulcetin/immersa) ⭐ 487 | 🐛 2 | 🌐 Clojure | 📅 2025-12-25 - Open Source Web-based 3D Presentation Tool. ([video](https://www.youtube.com/watch?v=1yjtpf59jv0))
 * [Vue-BabylonJS](https://github.com/Beg-in/vue-babylonjs) ⚠️ Archived - A ready-to-go 3D environment for Vue.js using Babylon.js ([demo](https://vuebabylonjs.com/))
 * [Divine Voxel Engine](https://github.com/Divine-Star-Software/DivineVoxelEngine) ⭐ 264 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-04 - A truly multi-threaded JavaScript voxel game engine written in TypeScript.
 * [BabylonJS-CharacterController](https://github.com/ssatguru/BabylonJS-CharacterController) ⭐ 241 | 🐛 15 | 🌐 TypeScript | 📅 2026-06-21 - A CharacterController for Babylon.js ([demo](https://ssatguru.github.io/BabylonJS-CharacterController-Samples/demo/))
@@ -277,7 +277,7 @@
 * [t5c](https://github.com/orion3dgames/t5c) ⭐ 182 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-01 - The 5th Continent - an open-source multiplayer 3D RPG. ([demo](https://t5c.onrender.com/))
 * [OceanDemo](https://github.com/Popov72/OceanDemo) ⭐ 146 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-23 - Ocean demo in WebGPU. ([demo](https://popov72.github.io/OceanDemo/dist/index.html))
 * [multiplayer-babylon-js-game](https://github.com/aeon0/multiplayer-babylon-js-game) ⭐ 112 | 🐛 6 | 🌐 TypeScript | 📅 2022-12-10 - Multiplayer game with server and client-side physics engine synchronization. ([demo](http://185.82.21.82:8700/))
-* [BabylonFpsDemo](https://github.com/renjianfeng/BabylonFpsDemo) ⭐ 98 | 🐛 2 | 🌐 JavaScript | 📅 2017-12-11 - A first-person shooter with Babylon.js ([demo](https://renjianfeng.github.io/BabylonFpsDemo/example/index.html))
+* [BabylonFpsDemo](https://github.com/renjianfeng/BabylonFpsDemo) ⭐ 97 | 🐛 2 | 🌐 JavaScript | 📅 2017-12-11 - A first-person shooter with Babylon.js ([demo](https://renjianfeng.github.io/BabylonFpsDemo/example/index.html))
 * [babylon-mtoon-material](https://github.com/virtual-cast/babylon-mtoon-material) ⭐ 76 | 🐛 9 | 🌐 TypeScript | 📅 2024-01-09 - Unity MToon Shader WebGL porting to Babylon.js. ([demo](https://virtual-cast.github.io/babylon-mtoon-material/))
 * [facecap](https://github.com/imerso/facecap) ⭐ 73 | 🐛 1 | 🌐 JavaScript | 📅 2023-02-01 - Mediapipe face capture. ([demo](https://imerso.github.io/babylon.js/facecap/))
 * [ergoudan](https://github.com/armomu/ergoudan) ⭐ 70 | 🐛 6 | 🌐 TypeScript | 📅 2026-01-29 - Havok physics character controller demo. ([demo](https://armomu.github.io/ergoudan/#/))
@@ -377,4 +377,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
