@@ -1773,8 +1773,8 @@
             "id": 134579330,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T08:47:00Z",
-            "open_issues": 100,
+            "last_commit": "2026-09-09T17:37:58Z",
+            "open_issues": 104,
             "owner": "xtreemze",
             "repo": "defend",
             "stars": 25,
@@ -2118,7 +2118,7 @@
             "open_issues": 2,
             "owner": "ertugrulcetin",
             "repo": "immersa",
-            "stars": 487,
+            "stars": 488,
             "topics": []
           },
           "first_seen": "2026-08-28T06:51:24.297Z"
@@ -3620,7 +3620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:10:23.347Z",
+    "last_updated": "2026-09-10T00:58:10.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
