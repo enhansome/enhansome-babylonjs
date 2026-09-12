@@ -39,7 +39,7 @@
 * [Partners Using Babylon.js](https://www.babylonjs.com/partners/)
 * [Specifications](https://www.babylonjs.com/specifications/)
 * Social Media
-  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,049 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-10
+  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,052 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-11
   * [Medium](https://babylonjs.medium.com/)
   * [Twitter](https://twitter.com/babylonjs)
   * [YouTube Channel](https://www.youtube.com/channel/UCyOemMa5EJkIgVavJjSCLKQ)
@@ -249,7 +249,7 @@
 * [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer) ⭐ 53 | 🐛 99 | 🌐 TypeScript | 📅 2026-09-08 - Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. ([demo](https://cosmosjourneyer.com/))
 * [Space Invaders](https://github.com/johnpitchers/Space-Invaders) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-23 - Space Invaders in your browser with 3D WebGL. ([demo](https://spaceinvaders.viperfish.com.au/))
 * [Planet Builder](https://github.com/SvenFrankson/planet-builder-web) ⭐ 30 | 🐛 1 | 🌐 JavaScript | 📅 2023-04-22 - Spherical Voxel Engine demo with a robot hand. ([demo](https://svenfrankson.github.io/PlanetBuilder2022/index.html))
-* [Defend](https://github.com/xtreemze/defend) ⭐ 25 | 🐛 100 | 🌐 Java | 📅 2026-09-10 - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. ([demo](https://xtreemze.github.io/defend/))
+* [Defend](https://github.com/xtreemze/defend) ⭐ 25 | 🐛 100 | 🌐 Java | 📅 2026-09-11 - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. ([demo](https://xtreemze.github.io/defend/))
 * [Light Speed Ready!](https://github.com/Xanmia/Light-Speed-Ready) ⭐ 21 | 🐛 6 | 🌐 JavaScript | 📅 2014-05-09 - A spaceship game of gathering resources and leveling your ship. ([demo](https://www.kraem.com/Light-Speed-Ready/game.html))
 * [Hide and Seek Demo](https://github.com/colyseus/babylonjs-hide-and-seek) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2022-10-21 - Multiplayer Hide-and-Seek made with BabylonJS and Colyseus. ([demo](https://docs.colyseus.io/colyseus/demo/babylonjs-editor/hide-and-seek/))
 * [Theasis](https://github.com/ThanosRestas/Theasis) ⭐ 18 | 🐛 11 | 🌐 JavaScript | 📅 2021-10-06 - FPS game. ([demo](https://thanosrestas.github.io/Theasis/dist/index.html))
@@ -287,14 +287,13 @@
 * [Tomb Raider Nostalgia](https://github.com/Popov72/TRN2) ⭐ 54 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-24 - View levels and play cut scenes for old Tomb Raider games 1/2/3/4. ([demo](https://popov72.github.io/TRN2/))
 * [yuka-babylonjs-examples](https://github.com/eldinor/yuka-babylonjs-examples) ⭐ 51 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-08 - Examples of using Yuka for Game AI. ([demo](https://yuka.babylonpress.org/))
 * [Oculus Quest Remote Desktop](https://github.com/shinyoshiaki/oculus-quest-remote-desktop) ⭐ 41 | 🐛 47 | 🌐 TypeScript | 📅 2023-01-03 - Remote desktop for Oculus Quest. ([demo](https://shinyoshiaki.github.io/oculus-quest-remote-desktop/build/))
-* [BabylonJS Typescript Logic Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) ⭐ 39 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-01 - A collection of small projects that show possible ways of handling game logic in a Babylon.js game.
+* [BabylonJS Typescript Logic Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) ⭐ 39 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-11 - A collection of small projects that show possible ways of handling game logic in a Babylon.js game.
 * [ecsy-babylon](https://github.com/kaliber5/ecsy-babylon) ⭐ 39 | 🐛 17 | 🌐 TypeScript | 📅 2023-02-03 - Experimental Babylon.js implementation of ECSY.
 * [Molvwr](https://github.com/gleborgne/molvwr) ⭐ 33 | 🐛 4 | 🌐 JavaScript | 📅 2015-11-04 - WebGL molecule viewer. ([demo](https://gleborgne.github.io/molvwr/))
 * [Christmas runner](https://github.com/Temechon/Christmas-runner) ⭐ 27 | 🐛 0 | 🌐 JavaScript | 📅 2015-12-09 - A Babylon.js game made for Christmas. ([demo](http://pixelcodr.com/games/christmasRunner/))
 * [Babylon PostEffect Designer](https://github.com/HarveyLijh/Babylon_PostEffect_Designer_JL) ⭐ 26 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-29 - Full control of post effects adjustments in Babylon.js. Supports real-time post-effect adjustments, mesh import, and post-effect data sharing. ([demo](https://harveylijh.github.io/Babylon_PostEffect_Designer_JL/))
 * [KZ Climbing](https://github.com/BabylonJSGames/BabylonJS-Platformer-Game-Prototype) ⭐ 26 | 🐛 0 | 🌐 TypeScript | 📅 2023-04-28 - A 3D platformer browser game prototype similar to "KZ" maps in Counter Strike. ([demo](https://kzclimbing.netlify.app/client/public/))
 * [3D Creator](https://github.com/simonguest/3dcreator) ⭐ 22 | 🐛 29 | 🌐 TypeScript | 📅 2023-09-20 - A prototype that shows how students (grades 7-12) can use block-based programming to create immersive 3D scenes. ([demo](https://simonguest.github.io/3dcreator/))
-* [HTML5 FPS](https://github.com/csarkosh/html5-fps) ⭐ 22 | 🐛 6 | 🌐 TypeScript | 📅 2023-07-13 - Demo of an HTML5 first-person rig built on Babylon.js and React. ([demo](https://fps.csarko.sh/))
 * [fps-babylon-js](https://github.com/Raigyo/fps-babylon-js) ⭐ 17 | 🐛 10 | 🌐 JavaScript | 📅 2022-12-12 - Online Multiplayer First Person Shooter with Babylon.js & SocketIO. ([demo](https://babylon-fps-online.herokuapp.com/))
 * [react-babylon-spring](https://github.com/hookex/react-babylon-spring) ⭐ 17 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-10 - Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. ([demo](https://hooke.life/react-babylon-spring/))
 * [Epic Guide](https://github.com/Temechon/Babylon.js-FPS) ⭐ 15 | 🐛 2 | 🌐 JavaScript | 📅 2016-06-09 - A FPS game about going for a walk. ([demo](http://pixelcodr.com/games/babylonjs-fps/))
@@ -322,6 +321,7 @@
 * [Space Jam: A New Legacy BabylonJS Mixed Reality Experience](https://github.com/microsoft/space-jam-a-new-legacy-babylonjs-template) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2025-08-20 - This repository pairs with the Babylon.js Mixed Reality module that is part of the Microsoft Learn learning path inspired by the *Space Jam: A New Legacy* film.
 * [Roblox meets film noir](https://github.com/TomWHall/babylon-js-platformer) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2022-10-12 - A 3D platform game demo using Babylon.js and React. ([demo](https://tomwhall.github.io/babylon-js-platformer/))
 * [Starship Flight Simulator](https://github.com/ravendano014/starship) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2025-08-28 - Star Wars Arcade Tribute. ([demo](https://ravendano014.github.io/starship/))
+* [HTML5 FPS](https://github.com/csarkosh/html5-fps) - Demo of an HTML5 first-person rig built on Babylon.js and React. ([demo](https://fps.csarko.sh/))
 * [Pokeball Workshop](https://gitlab.com/side_project/pokeball-workshop) - Interactive models from Game Freak's classic series. ([demo](https://side_project.gitlab.io/pokeball-workshop/))
 
 ## Examples
@@ -377,4 +377,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._

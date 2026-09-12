@@ -1773,7 +1773,7 @@
             "id": 134579330,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-10T10:30:45Z",
+            "last_commit": "2026-09-11T07:54:36Z",
             "open_issues": 100,
             "owner": "xtreemze",
             "repo": "defend",
@@ -2595,7 +2595,7 @@
             "id": 261591771,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-01T16:51:03Z",
+            "last_commit": "2026-09-11T11:35:36Z",
             "open_issues": 4,
             "owner": "DisownedWheat",
             "repo": "BabylonJS-Game-Logic-Examples",
@@ -2742,34 +2742,6 @@
             "repo": "3dcreator",
             "stars": 22,
             "topics": []
-          },
-          "first_seen": "2026-08-28T06:51:24.297Z"
-        },
-        {
-          "node_type": "item",
-          "title": "HTML5 FPS",
-          "description": "Demo of an HTML5 first-person rig built on Babylon.js and React. (demo)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Demo of an HTML5 first-person rig built on Babylon.js and React",
-            "homepage": "https://fps.csarko.sh",
-            "id": 272866692,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2023-07-13T21:18:41Z",
-            "open_issues": 6,
-            "owner": "csarkosh",
-            "repo": "html5-fps",
-            "stars": 22,
-            "topics": [
-              "3d-web-game",
-              "babylonjs",
-              "fps",
-              "game",
-              "html5-game",
-              "react"
-            ]
           },
           "first_seen": "2026-08-28T06:51:24.297Z"
         },
@@ -3620,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T00:55:07.188Z",
+    "last_updated": "2026-09-12T01:01:22.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
