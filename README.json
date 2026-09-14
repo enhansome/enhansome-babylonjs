@@ -1703,7 +1703,7 @@
             "open_issues": 99,
             "owner": "BarthPaleologue",
             "repo": "CosmosJourneyer",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "exploration-game",
               "procedural",
@@ -1773,8 +1773,8 @@
             "id": 134579330,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T07:54:36Z",
-            "open_issues": 100,
+            "last_commit": "2026-09-13T04:05:05Z",
+            "open_issues": 97,
             "owner": "xtreemze",
             "repo": "defend",
             "stars": 25,
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T00:48:04.777Z",
+    "last_updated": "2026-09-14T00:54:50.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
