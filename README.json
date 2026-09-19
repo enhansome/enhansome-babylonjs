@@ -2088,7 +2088,7 @@
             "open_issues": 9,
             "owner": "brianzinn",
             "repo": "react-babylonjs",
-            "stars": 888,
+            "stars": 889,
             "topics": [
               "3d",
               "3d-engine",
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:12:16.777Z",
+    "last_updated": "2026-09-19T01:05:56.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
