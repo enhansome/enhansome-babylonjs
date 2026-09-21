@@ -1699,11 +1699,11 @@
             "id": 351859028,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-16T18:26:12Z",
+            "last_commit": "2026-09-20T17:47:20Z",
             "open_issues": 100,
             "owner": "BarthPaleologue",
             "repo": "CosmosJourneyer",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "exploration-game",
               "procedural",
@@ -2167,22 +2167,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A multi-threaded, renderer independent, fully customizable TypeScript voxel engine.",
+            "description": "A multi-threaded, renderer-independent voxel engine in TypeScript. Build Minecraft-style voxel worlds and games that run in the browser.",
             "homepage": null,
             "id": 430771907,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T21:12:10Z",
+            "last_commit": "2026-09-20T21:18:36Z",
             "open_issues": 4,
             "owner": "Divine-Star-Software",
             "repo": "DivineVoxelEngine",
             "stars": 264,
             "topics": [
-              "typescript",
-              "voxel-engine",
-              "voxels",
-              "webgl2",
-              "webgpu"
+              "babylonjs",
+              "minecraft",
+              "typescript-library",
+              "voxel-game",
+              "webgl"
             ]
           },
           "first_seen": "2026-08-28T06:51:24.297Z"
@@ -2203,7 +2203,7 @@
             "open_issues": 15,
             "owner": "ssatguru",
             "repo": "BabylonJS-CharacterController",
-            "stars": 242,
+            "stars": 243,
             "topics": []
           },
           "first_seen": "2026-08-28T06:51:24.297Z"
@@ -2309,7 +2309,7 @@
             "open_issues": 0,
             "owner": "Popov72",
             "repo": "OceanDemo",
-            "stars": 148,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-08-28T06:51:24.297Z"
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:56:44.993Z",
+    "last_updated": "2026-09-21T00:58:57.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
@@ -3604,7 +3604,7 @@
       "open_issues": 1,
       "owner": "Symbitic",
       "repo": "awesome-babylonjs",
-      "stars": 357,
+      "stars": 356,
       "topics": [
         "awesome",
         "awesome-list",
