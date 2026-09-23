@@ -1699,7 +1699,7 @@
             "id": 351859028,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-21T08:19:30Z",
+            "last_commit": "2026-09-22T18:00:05Z",
             "open_issues": 100,
             "owner": "BarthPaleologue",
             "repo": "CosmosJourneyer",
@@ -1773,7 +1773,7 @@
             "id": 134579330,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-21T08:25:17Z",
+            "last_commit": "2026-09-22T07:21:09Z",
             "open_issues": 107,
             "owner": "xtreemze",
             "repo": "defend",
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:33:01.410Z",
+    "last_updated": "2026-09-23T01:23:10.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
