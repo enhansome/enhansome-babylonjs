@@ -1699,11 +1699,11 @@
             "id": 351859028,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-25T22:04:48Z",
+            "last_commit": "2026-09-27T15:13:28Z",
             "open_issues": 101,
             "owner": "BarthPaleologue",
             "repo": "CosmosJourneyer",
-            "stars": 56,
+            "stars": 57,
             "topics": [
               "exploration-game",
               "procedural",
@@ -2137,7 +2137,7 @@
             "open_issues": 32,
             "owner": "Beg-in",
             "repo": "vue-babylonjs",
-            "stars": 460,
+            "stars": 459,
             "topics": [
               "3d",
               "babylonjs",
@@ -2197,7 +2197,7 @@
             "id": 113472542,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T21:26:46Z",
+            "last_commit": "2026-09-27T20:23:12Z",
             "open_issues": 15,
             "owner": "ssatguru",
             "repo": "BabylonJS-CharacterController",
@@ -2224,6 +2224,7 @@
             "repo": "reactylon",
             "stars": 237,
             "topics": [
+              "3d",
               "ar",
               "babylonjs",
               "extended-reality",
@@ -2232,6 +2233,7 @@
               "react-native",
               "spatial-computing",
               "vr",
+              "webgpu",
               "webxr"
             ]
           },
@@ -2456,27 +2458,6 @@
         },
         {
           "node_type": "item",
-          "title": "nengi + Babylon 3D shooter template",
-          "description": "A template game for multiplayer 3D shooters made in Babylon.js + nengi.js with client-side prediction and lag compensation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "nengi+babylon template of a 3d shooter with client-side prediction and lag compensation",
-            "homepage": null,
-            "id": 195766638,
-            "language": "JavaScript",
-            "license": "Apache-2.0",
-            "last_commit": "2021-07-17T21:50:01Z",
-            "open_issues": 6,
-            "owner": "timetocode",
-            "repo": "nengi-babylon-3d-shooter",
-            "stars": 55,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:51:24.297Z"
-        },
-        {
-          "node_type": "item",
           "title": "Multiplayer FPS-Game",
           "description": "A Multiplayer FPS. (demo)",
           "children": [],
@@ -2491,6 +2472,27 @@
             "open_issues": 0,
             "owner": "johannes-do",
             "repo": "FPS-Game",
+            "stars": 54,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T06:51:24.297Z"
+        },
+        {
+          "node_type": "item",
+          "title": "nengi + Babylon 3D shooter template",
+          "description": "A template game for multiplayer 3D shooters made in Babylon.js + nengi.js with client-side prediction and lag compensation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "nengi+babylon template of a 3d shooter with client-side prediction and lag compensation",
+            "homepage": null,
+            "id": 195766638,
+            "language": "JavaScript",
+            "license": "Apache-2.0",
+            "last_commit": "2021-07-17T21:50:01Z",
+            "open_issues": 6,
+            "owner": "timetocode",
+            "repo": "nengi-babylon-3d-shooter",
             "stars": 54,
             "topics": []
           },
@@ -2745,27 +2747,6 @@
         },
         {
           "node_type": "item",
-          "title": "fps-babylon-js",
-          "description": "Online Multiplayer First Person Shooter with Babylon.js & SocketIO. (demo)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "WebGL: Babylon.JS & SocketIO- Videogame: Online Multiplayer First Personnal Shooter (Demo on Heroku) - WIP",
-            "homepage": null,
-            "id": 242802877,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2022-12-12T09:06:52Z",
-            "open_issues": 10,
-            "owner": "Raigyo",
-            "repo": "fps-babylon-js",
-            "stars": 17,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:51:24.297Z"
-        },
-        {
-          "node_type": "item",
           "title": "react-babylon-spring",
           "description": "Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. (demo)",
           "children": [],
@@ -2788,6 +2769,27 @@
               "react",
               "spring-physics"
             ]
+          },
+          "first_seen": "2026-08-28T06:51:24.297Z"
+        },
+        {
+          "node_type": "item",
+          "title": "fps-babylon-js",
+          "description": "Online Multiplayer First Person Shooter with Babylon.js & SocketIO. (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "WebGL: Babylon.JS & SocketIO- Videogame: Online Multiplayer First Personnal Shooter (Demo on Heroku) - WIP",
+            "homepage": null,
+            "id": 242802877,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2022-12-12T09:06:52Z",
+            "open_issues": 10,
+            "owner": "Raigyo",
+            "repo": "fps-babylon-js",
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:51:24.297Z"
         },
@@ -3590,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:17:55.377Z",
+    "last_updated": "2026-09-28T01:31:28.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
@@ -3602,7 +3604,7 @@
       "open_issues": 1,
       "owner": "Symbitic",
       "repo": "awesome-babylonjs",
-      "stars": 357,
+      "stars": 358,
       "topics": [
         "awesome",
         "awesome-list",

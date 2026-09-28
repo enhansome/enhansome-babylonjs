@@ -39,7 +39,7 @@
 * [Partners Using Babylon.js](https://www.babylonjs.com/partners/)
 * [Specifications](https://www.babylonjs.com/specifications/)
 * Social Media
-  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,114 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-26
+  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,113 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-26
   * [Medium](https://babylonjs.medium.com/)
   * [Twitter](https://twitter.com/babylonjs)
   * [YouTube Channel](https://www.youtube.com/channel/UCyOemMa5EJkIgVavJjSCLKQ)
@@ -246,7 +246,7 @@
 * [VoxelSrv](https://github.com/VoxelSrv/voxelsrv) ⚠️ Archived - Voxel browser game inspired by Minecraft. ([demo](http://voxelsrv-master.pb4.eu/))
 * [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) ⭐ 85 | 🐛 1 | 🌐 TypeScript | 📅 2022-04-11 - Simulation driving of F18 Fighter. ([demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html))
 * [Space Truckers](https://github.com/jelster/space-truckers) ⭐ 60 | 🐛 22 | 🌐 JavaScript | 📅 2023-08-27 - A game of getting stuff from Point A to Point B... IN SPAAAACCE! ([demo](https://space-truckers.com/))
-* [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer) ⭐ 56 | 🐛 101 | 🌐 TypeScript | 📅 2026-09-25 - Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. ([demo](https://cosmosjourneyer.com/))
+* [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer) ⭐ 57 | 🐛 101 | 🌐 TypeScript | 📅 2026-09-27 - Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. ([demo](https://cosmosjourneyer.com/))
 * [Space Invaders](https://github.com/johnpitchers/Space-Invaders) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-23 - Space Invaders in your browser with 3D WebGL. ([demo](https://spaceinvaders.viperfish.com.au/))
 * [Planet Builder](https://github.com/SvenFrankson/planet-builder-web) ⭐ 30 | 🐛 1 | 🌐 JavaScript | 📅 2023-04-22 - Spherical Voxel Engine demo with a robot hand. ([demo](https://svenfrankson.github.io/PlanetBuilder2022/index.html))
 * [Defend](https://github.com/xtreemze/defend) ⭐ 26 | 🐛 111 | 🌐 Java | 📅 2026-09-26 - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. ([demo](https://xtreemze.github.io/defend/))
@@ -271,7 +271,7 @@
 * [Immersa](https://github.com/ertugrulcetin/immersa) ⭐ 489 | 🐛 2 | 🌐 Clojure | 📅 2025-12-25 - Open Source Web-based 3D Presentation Tool. ([video](https://www.youtube.com/watch?v=1yjtpf59jv0))
 * [Vue-BabylonJS](https://github.com/Beg-in/vue-babylonjs) ⚠️ Archived - A ready-to-go 3D environment for Vue.js using Babylon.js ([demo](https://vuebabylonjs.com/))
 * [Divine Voxel Engine](https://github.com/Divine-Star-Software/DivineVoxelEngine) ⭐ 264 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-20 - A truly multi-threaded JavaScript voxel game engine written in TypeScript.
-* [BabylonJS-CharacterController](https://github.com/ssatguru/BabylonJS-CharacterController) ⭐ 243 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-26 - A CharacterController for Babylon.js ([demo](https://ssatguru.github.io/BabylonJS-CharacterController-Samples/demo/))
+* [BabylonJS-CharacterController](https://github.com/ssatguru/BabylonJS-CharacterController) ⭐ 243 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-27 - A CharacterController for Babylon.js ([demo](https://ssatguru.github.io/BabylonJS-CharacterController-Samples/demo/))
 * [Reactylon](https://github.com/simonedevit/reactylon) ⭐ 237 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-29 - The React framework for XR. ([demo](https://www.reactylon.com/docs))
 * [babylonjs-webpack-es6](https://github.com/RaananW/babylonjs-webpack-es6) ⭐ 205 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-26 - Babylon.js basic scene with typescript, webpack, es6 modules, editorconfig, eslint, hot loading and more. Will even make coffee if you ask nicely.
 * [t5c](https://github.com/orion3dgames/t5c) ⭐ 183 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-01 - The 5th Continent - an open-source multiplayer 3D RPG. ([demo](https://t5c.onrender.com/))
@@ -282,8 +282,8 @@
 * [facecap](https://github.com/imerso/facecap) ⭐ 73 | 🐛 1 | 🌐 JavaScript | 📅 2023-02-01 - Mediapipe face capture. ([demo](https://imerso.github.io/babylon.js/facecap/))
 * [ergoudan](https://github.com/armomu/ergoudan) ⭐ 70 | 🐛 6 | 🌐 TypeScript | 📅 2026-01-29 - Havok physics character controller demo. ([demo](https://armomu.github.io/ergoudan/#/))
 * [babylonjs-typescript-webpack-starter](https://github.com/pandadelphin/babylonjs-typescript-webpack-starter) ⭐ 64 | 🐛 13 | 🌐 TypeScript | 📅 2023-01-07 - A starter template for those who want to use the famous JavaScript 3D game engine Babylon.js with TypeScript and Webpack.
-* [nengi + Babylon 3D shooter template](https://github.com/timetocode/nengi-babylon-3d-shooter) ⭐ 55 | 🐛 6 | 🌐 JavaScript | 📅 2021-07-17 - A template game for multiplayer 3D shooters made in Babylon.js + nengi.js with client-side prediction and lag compensation.
 * [Multiplayer FPS-Game](https://github.com/aeon0/FPS-Game) ⭐ 54 | 🐛 0 | 🌐 JavaScript | 📅 2021-10-28 - A Multiplayer FPS. ([demo](http://185.82.21.82/FPS-Game/public/))
+* [nengi + Babylon 3D shooter template](https://github.com/timetocode/nengi-babylon-3d-shooter) ⭐ 54 | 🐛 6 | 🌐 JavaScript | 📅 2021-07-17 - A template game for multiplayer 3D shooters made in Babylon.js + nengi.js with client-side prediction and lag compensation.
 * [Tomb Raider Nostalgia](https://github.com/Popov72/TRN2) ⭐ 54 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-24 - View levels and play cut scenes for old Tomb Raider games 1/2/3/4. ([demo](https://popov72.github.io/TRN2/))
 * [yuka-babylonjs-examples](https://github.com/eldinor/yuka-babylonjs-examples) ⭐ 51 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-08 - Examples of using Yuka for Game AI. ([demo](https://yuka.babylonpress.org/))
 * [Oculus Quest Remote Desktop](https://github.com/shinyoshiaki/oculus-quest-remote-desktop) ⭐ 41 | 🐛 47 | 🌐 TypeScript | 📅 2023-01-03 - Remote desktop for Oculus Quest. ([demo](https://shinyoshiaki.github.io/oculus-quest-remote-desktop/build/))
@@ -294,8 +294,8 @@
 * [Babylon PostEffect Designer](https://github.com/HarveyLijh/Babylon_PostEffect_Designer_JL) ⭐ 26 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-29 - Full control of post effects adjustments in Babylon.js. Supports real-time post-effect adjustments, mesh import, and post-effect data sharing. ([demo](https://harveylijh.github.io/Babylon_PostEffect_Designer_JL/))
 * [KZ Climbing](https://github.com/BabylonJSGames/BabylonJS-Platformer-Game-Prototype) ⭐ 26 | 🐛 0 | 🌐 TypeScript | 📅 2023-04-28 - A 3D platformer browser game prototype similar to "KZ" maps in Counter Strike. ([demo](https://kzclimbing.netlify.app/client/public/))
 * [3D Creator](https://github.com/simonguest/3dcreator) ⭐ 22 | 🐛 29 | 🌐 TypeScript | 📅 2023-09-20 - A prototype that shows how students (grades 7-12) can use block-based programming to create immersive 3D scenes. ([demo](https://simonguest.github.io/3dcreator/))
-* [fps-babylon-js](https://github.com/Raigyo/fps-babylon-js) ⭐ 17 | 🐛 10 | 🌐 JavaScript | 📅 2022-12-12 - Online Multiplayer First Person Shooter with Babylon.js & SocketIO. ([demo](https://babylon-fps-online.herokuapp.com/))
 * [react-babylon-spring](https://github.com/hookex/react-babylon-spring) ⭐ 17 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-12 - Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. ([demo](https://hooke.life/react-babylon-spring/))
+* [fps-babylon-js](https://github.com/Raigyo/fps-babylon-js) ⭐ 16 | 🐛 10 | 🌐 JavaScript | 📅 2022-12-12 - Online Multiplayer First Person Shooter with Babylon.js & SocketIO. ([demo](https://babylon-fps-online.herokuapp.com/))
 * [Epic Guide](https://github.com/Temechon/Babylon.js-FPS) ⭐ 15 | 🐛 2 | 🌐 JavaScript | 📅 2016-06-09 - A FPS game about going for a walk. ([demo](http://pixelcodr.com/games/babylonjs-fps/))
 * [VR Office Throwing Game](https://github.com/wilcoschoneveld/office) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2021-07-28 - A VR throwing game. ([demo](https://office.wilcoschoneveld.com/))
 * [WebXR Measuring Tape](https://github.com/Narendra-Kamath/webxr-measuring-tape) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2020-09-24 - :zap: An Augmented Reality real-world length-measuring web app using the WebXR HitTarget feature. ([demo](https://narendra-kamath.github.io/webxr-measuring-tape/))
@@ -377,4 +377,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
