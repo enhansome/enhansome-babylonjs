@@ -1606,7 +1606,7 @@
             "open_issues": 1,
             "owner": "BabylonJS",
             "repo": "SummerFestival",
-            "stars": 139,
+            "stars": 138,
             "topics": []
           },
           "first_seen": "2026-08-28T06:51:24.297Z"
@@ -1699,8 +1699,8 @@
             "id": 351859028,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-01T17:06:20Z",
-            "open_issues": 101,
+            "last_commit": "2026-10-02T15:32:17Z",
+            "open_issues": 102,
             "owner": "BarthPaleologue",
             "repo": "CosmosJourneyer",
             "stars": 57,
@@ -1773,8 +1773,8 @@
             "id": 134579330,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T23:49:34Z",
-            "open_issues": 110,
+            "last_commit": "2026-10-02T16:06:01Z",
+            "open_issues": 111,
             "owner": "xtreemze",
             "repo": "defend",
             "stars": 26,
@@ -2086,7 +2086,7 @@
             "open_issues": 9,
             "owner": "brianzinn",
             "repo": "react-babylonjs",
-            "stars": 889,
+            "stars": 890,
             "topics": [
               "3d",
               "3d-engine",
@@ -3592,7 +3592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:06:38.443Z",
+    "last_updated": "2026-10-03T01:51:27.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
