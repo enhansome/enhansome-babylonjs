@@ -39,7 +39,7 @@
 * [Partners Using Babylon.js](https://www.babylonjs.com/partners/)
 * [Specifications](https://www.babylonjs.com/specifications/)
 * Social Media
-  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,126 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-02
+  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,128 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-02
   * [Medium](https://babylonjs.medium.com/)
   * [Twitter](https://twitter.com/babylonjs)
   * [YouTube Channel](https://www.youtube.com/channel/UCyOemMa5EJkIgVavJjSCLKQ)
@@ -246,7 +246,7 @@
 * [VoxelSrv](https://github.com/VoxelSrv/voxelsrv) ⚠️ Archived - Voxel browser game inspired by Minecraft. ([demo](http://voxelsrv-master.pb4.eu/))
 * [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) ⭐ 85 | 🐛 1 | 🌐 TypeScript | 📅 2022-04-11 - Simulation driving of F18 Fighter. ([demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html))
 * [Space Truckers](https://github.com/jelster/space-truckers) ⭐ 60 | 🐛 22 | 🌐 JavaScript | 📅 2023-08-27 - A game of getting stuff from Point A to Point B... IN SPAAAACCE! ([demo](https://space-truckers.com/))
-* [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer) ⭐ 57 | 🐛 102 | 🌐 TypeScript | 📅 2026-10-02 - Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. ([demo](https://cosmosjourneyer.com/))
+* [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer) ⭐ 57 | 🐛 102 | 🌐 TypeScript | 📅 2026-10-03 - Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. ([demo](https://cosmosjourneyer.com/))
 * [Space Invaders](https://github.com/johnpitchers/Space-Invaders) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-23 - Space Invaders in your browser with 3D WebGL. ([demo](https://spaceinvaders.viperfish.com.au/))
 * [Planet Builder](https://github.com/SvenFrankson/planet-builder-web) ⭐ 30 | 🐛 1 | 🌐 JavaScript | 📅 2023-04-22 - Spherical Voxel Engine demo with a robot hand. ([demo](https://svenfrankson.github.io/PlanetBuilder2022/index.html))
 * [Defend](https://github.com/xtreemze/defend) ⭐ 26 | 🐛 111 | 🌐 Java | 📅 2026-10-02 - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. ([demo](https://xtreemze.github.io/defend/))
@@ -267,7 +267,7 @@
 
 *Open source projects using Babylon.js*
 
-* [react-babylonjs](https://github.com/brianzinn/react-babylonjs) ⭐ 890 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-02 - React for Babylon.js ([demo](https://brianzinn.github.io/react-babylonjs/))
+* [react-babylonjs](https://github.com/brianzinn/react-babylonjs) ⭐ 891 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-02 - React for Babylon.js ([demo](https://brianzinn.github.io/react-babylonjs/))
 * [Immersa](https://github.com/ertugrulcetin/immersa) ⭐ 489 | 🐛 2 | 🌐 Clojure | 📅 2025-12-25 - Open Source Web-based 3D Presentation Tool. ([video](https://www.youtube.com/watch?v=1yjtpf59jv0))
 * [Vue-BabylonJS](https://github.com/Beg-in/vue-babylonjs) ⚠️ Archived - A ready-to-go 3D environment for Vue.js using Babylon.js ([demo](https://vuebabylonjs.com/))
 * [Divine Voxel Engine](https://github.com/Divine-Star-Software/DivineVoxelEngine) ⭐ 264 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-20 - A truly multi-threaded JavaScript voxel game engine written in TypeScript.
@@ -314,11 +314,11 @@
 * [babylonjs-webxr-template](https://github.com/yuiseki/babylonjs-webxr-template) ⚠️ Archived - Babylon.js + TypeScript WebXR template project. ([demo](https://yuiseki.github.io/babylonjs-webxr-template/))
 * [BabylonJS-Doom-Clone](https://github.com/babylonjs-archive/doom-clone) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2024-03-30 - Doom-style game crafted with love. ([demo](https://babylonjs-archive.github.io/doom-clone/))
 * [babylon\_ragdoll\_robi](https://github.com/Takebon/babylon_ragdoll_robi) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-14 - Babylon.js ragdoll robot. ([demo](https://ragdoll-robi.web.app/))
+* [Space Jam: A New Legacy BabylonJS Mixed Reality Experience](https://github.com/microsoft/space-jam-a-new-legacy-babylonjs-template) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2025-08-20 - This repository pairs with the Babylon.js Mixed Reality module that is part of the Microsoft Learn learning path inspired by the *Space Jam: A New Legacy* film.
 * [3D Tetris](https://github.com/babylonjs-archive/3d-tetris) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2024-03-30 - 3D Tetris using the Babylon.js engine. ([demo](https://babylonjs-archive.github.io/3d-tetris/))
 * [babylon-accessibility-example](https://github.com/Symbitic/babylon-accessibility-example) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2024-02-07 - Example of how to add accessibility to 3D models. ([demo](https://symbitic.github.io/babylon-accessibility-example/))
 * [Bomberman 3D](https://github.com/adisoftbn/Bomberman3D) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2018-01-10 - Experimental game dev with Babylon.js and Angular 5. ([demo](https://adisoftbn.github.io/Bomberman3D/))
 * [Playlist Browser XR](https://github.com/Symbitic/PlaylistBrowserXR) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2021-07-18 - Browse Spotify playlists in Virtual Reality. ([demo](https://www.playlistbrowserxr.xyz/))
-* [Space Jam: A New Legacy BabylonJS Mixed Reality Experience](https://github.com/microsoft/space-jam-a-new-legacy-babylonjs-template) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2025-08-20 - This repository pairs with the Babylon.js Mixed Reality module that is part of the Microsoft Learn learning path inspired by the *Space Jam: A New Legacy* film.
 * [Roblox meets film noir](https://github.com/TomWHall/babylon-js-platformer) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2022-10-12 - A 3D platform game demo using Babylon.js and React. ([demo](https://tomwhall.github.io/babylon-js-platformer/))
 * [Starship Flight Simulator](https://github.com/ravendano014/starship) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2025-08-28 - Star Wars Arcade Tribute. ([demo](https://ravendano014.github.io/starship/))
 * [HTML5 FPS](https://github.com/csarkosh/html5-fps) - Demo of an HTML5 first-person rig built on Babylon.js and React. ([demo](https://fps.csarko.sh/))
@@ -377,4 +377,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
