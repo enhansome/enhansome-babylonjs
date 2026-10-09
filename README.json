@@ -2316,6 +2316,37 @@
         },
         {
           "node_type": "item",
+          "title": "encantar.js",
+          "description": "GPU-accelerated Augmented Reality library that works on any device (iOS, Android, desktops). Easy to use and requires no WebXR support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GPU-accelerated Augmented Reality library for the web.",
+            "homepage": "http://encantar.dev/",
+            "id": 484150060,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-24T03:17:54Z",
+            "open_issues": 0,
+            "owner": "alemart",
+            "repo": "encantar-js",
+            "stars": 125,
+            "topics": [
+              "aframe",
+              "ar",
+              "augmented-reality",
+              "babylonjs",
+              "threejs",
+              "vr",
+              "webar",
+              "webgl",
+              "webxr"
+            ]
+          },
+          "first_seen": "2026-10-09T02:53:20.858Z"
+        },
+        {
+          "node_type": "item",
           "title": "multiplayer-babylon-js-game",
           "description": "Multiplayer game with server and client-side physics engine synchronization. (demo)",
           "children": [],
@@ -3592,7 +3623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:38:18.097Z",
+    "last_updated": "2026-10-09T02:53:20.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
@@ -3600,8 +3631,8 @@
       "id": 366793984,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-01-22T03:03:14Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-08T12:35:50Z",
+      "open_issues": 0,
       "owner": "Symbitic",
       "repo": "awesome-babylonjs",
       "stars": 359,
@@ -3614,7 +3645,7 @@
         "webgpu"
       ]
     },
-    "original_repository_sha": "33c0202a11db5f43833b63b79e801e911897fdcb",
+    "original_repository_sha": "1dae9bf10cfa49e708212efb20f16222683acafd",
     "enhanced_repository": "enhansome/enhansome-babylonjs",
     "enhanced_repository_description": null,
     "title": "Awesome Babylon.js with stars"
