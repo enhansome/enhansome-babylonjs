@@ -39,7 +39,7 @@
 * [Partners Using Babylon.js](https://www.babylonjs.com/partners/)
 * [Specifications](https://www.babylonjs.com/specifications/)
 * Social Media
-  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,144 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-08
+  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,148 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-09
   * [Medium](https://babylonjs.medium.com/)
   * [Twitter](https://twitter.com/babylonjs)
   * [YouTube Channel](https://www.youtube.com/channel/UCyOemMa5EJkIgVavJjSCLKQ)
@@ -247,7 +247,7 @@
 * [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) ⭐ 85 | 🐛 1 | 🌐 TypeScript | 📅 2022-04-11 - Simulation driving of F18 Fighter. ([demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html))
 * [Space Truckers](https://github.com/jelster/space-truckers) ⭐ 60 | 🐛 22 | 🌐 JavaScript | 📅 2023-08-27 - A game of getting stuff from Point A to Point B... IN SPAAAACCE! ([demo](https://space-truckers.com/))
 * [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer) ⭐ 57 | 🐛 102 | 🌐 TypeScript | 📅 2026-10-07 - Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. ([demo](https://cosmosjourneyer.com/))
-* [Space Invaders](https://github.com/johnpitchers/Space-Invaders) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-23 - Space Invaders in your browser with 3D WebGL. ([demo](https://spaceinvaders.viperfish.com.au/))
+* [Space Invaders](https://github.com/johnpitchers/Space-Invaders) ⭐ 45 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-23 - Space Invaders in your browser with 3D WebGL. ([demo](https://spaceinvaders.viperfish.com.au/))
 * [Planet Builder](https://github.com/SvenFrankson/planet-builder-web) ⭐ 30 | 🐛 1 | 🌐 JavaScript | 📅 2023-04-22 - Spherical Voxel Engine demo with a robot hand. ([demo](https://svenfrankson.github.io/PlanetBuilder2022/index.html))
 * [Defend](https://github.com/xtreemze/defend) ⭐ 26 | 🐛 65 | 🌐 Java | 📅 2026-10-06 - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. ([demo](https://xtreemze.github.io/defend/))
 * [Light Speed Ready!](https://github.com/Xanmia/Light-Speed-Ready) ⭐ 21 | 🐛 6 | 🌐 JavaScript | 📅 2014-05-09 - A spaceship game of gathering resources and leveling your ship. ([demo](https://www.kraem.com/Light-Speed-Ready/game.html))
@@ -268,7 +268,7 @@
 *Open source projects using Babylon.js*
 
 * [react-babylonjs](https://github.com/brianzinn/react-babylonjs) ⭐ 892 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-02 - React for Babylon.js ([demo](https://brianzinn.github.io/react-babylonjs/))
-* [Immersa](https://github.com/ertugrulcetin/immersa) ⭐ 489 | 🐛 2 | 🌐 Clojure | 📅 2025-12-25 - Open Source Web-based 3D Presentation Tool. ([video](https://www.youtube.com/watch?v=1yjtpf59jv0))
+* [Immersa](https://github.com/ertugrulcetin/immersa) ⭐ 490 | 🐛 2 | 🌐 Clojure | 📅 2025-12-25 - Open Source Web-based 3D Presentation Tool. ([video](https://www.youtube.com/watch?v=1yjtpf59jv0))
 * [Vue-BabylonJS](https://github.com/Beg-in/vue-babylonjs) ⚠️ Archived - A ready-to-go 3D environment for Vue.js using Babylon.js ([demo](https://vuebabylonjs.com/))
 * [Divine Voxel Engine](https://github.com/Divine-Star-Software/DivineVoxelEngine) ⭐ 264 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-20 - A truly multi-threaded JavaScript voxel game engine written in TypeScript.
 * [BabylonJS-CharacterController](https://github.com/ssatguru/BabylonJS-CharacterController) ⭐ 243 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-28 - A CharacterController for Babylon.js ([demo](https://ssatguru.github.io/BabylonJS-CharacterController-Samples/demo/))
@@ -295,7 +295,7 @@
 * [Babylon PostEffect Designer](https://github.com/HarveyLijh/Babylon_PostEffect_Designer_JL) ⭐ 26 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-29 - Full control of post effects adjustments in Babylon.js. Supports real-time post-effect adjustments, mesh import, and post-effect data sharing. ([demo](https://harveylijh.github.io/Babylon_PostEffect_Designer_JL/))
 * [KZ Climbing](https://github.com/BabylonJSGames/BabylonJS-Platformer-Game-Prototype) ⭐ 26 | 🐛 0 | 🌐 TypeScript | 📅 2023-04-28 - A 3D platformer browser game prototype similar to "KZ" maps in Counter Strike. ([demo](https://kzclimbing.netlify.app/client/public/))
 * [3D Creator](https://github.com/simonguest/3dcreator) ⭐ 22 | 🐛 29 | 🌐 TypeScript | 📅 2023-09-20 - A prototype that shows how students (grades 7-12) can use block-based programming to create immersive 3D scenes. ([demo](https://simonguest.github.io/3dcreator/))
-* [react-babylon-spring](https://github.com/hookex/react-babylon-spring) ⭐ 17 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-12 - Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. ([demo](https://hooke.life/react-babylon-spring/))
+* [react-babylon-spring](https://github.com/hookex/react-babylon-spring) ⭐ 17 | 🐛 18 | 🌐 JavaScript | 📅 2026-10-09 - Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. ([demo](https://hooke.life/react-babylon-spring/))
 * [fps-babylon-js](https://github.com/Raigyo/fps-babylon-js) ⭐ 16 | 🐛 10 | 🌐 JavaScript | 📅 2022-12-12 - Online Multiplayer First Person Shooter with Babylon.js & SocketIO. ([demo](https://babylon-fps-online.herokuapp.com/))
 * [Epic Guide](https://github.com/Temechon/Babylon.js-FPS) ⭐ 15 | 🐛 2 | 🌐 JavaScript | 📅 2016-06-09 - A FPS game about going for a walk. ([demo](http://pixelcodr.com/games/babylonjs-fps/))
 * [VR Office Throwing Game](https://github.com/wilcoschoneveld/office) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2021-07-28 - A VR throwing game. ([demo](https://office.wilcoschoneveld.com/))
@@ -378,4 +378,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._

@@ -1735,7 +1735,7 @@
             "open_issues": 0,
             "owner": "johnpitchers",
             "repo": "Space-Invaders",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T06:51:24.297Z"
@@ -2116,7 +2116,7 @@
             "open_issues": 2,
             "owner": "ertugrulcetin",
             "repo": "immersa",
-            "stars": 489,
+            "stars": 490,
             "topics": []
           },
           "first_seen": "2026-08-28T06:51:24.297Z"
@@ -2788,8 +2788,8 @@
             "id": 267251798,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T22:07:28Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-09T17:03:58Z",
+            "open_issues": 18,
             "owner": "hookex",
             "repo": "react-babylon-spring",
             "stars": 17,
@@ -3623,7 +3623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:53:20.858Z",
+    "last_updated": "2026-10-10T02:14:14.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
