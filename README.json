@@ -1656,7 +1656,7 @@
             "open_issues": 1,
             "owner": "renjianfeng",
             "repo": "F18FlightSimulator-ammojs",
-            "stars": 85,
+            "stars": 86,
             "topics": []
           },
           "first_seen": "2026-08-28T06:51:24.297Z"
@@ -1699,11 +1699,11 @@
             "id": 351859028,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-10T15:15:42Z",
-            "open_issues": 103,
+            "last_commit": "2026-10-11T19:42:22Z",
+            "open_issues": 102,
             "owner": "BarthPaleologue",
             "repo": "CosmosJourneyer",
-            "stars": 57,
+            "stars": 58,
             "topics": [
               "exploration-game",
               "procedural",
@@ -2282,7 +2282,7 @@
             "open_issues": 2,
             "owner": "orion3dgames",
             "repo": "t5c",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "babylonjs",
               "colyseus",
@@ -3623,7 +3623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T01:46:21.920Z",
+    "last_updated": "2026-10-12T02:14:40.056Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
@@ -3635,7 +3635,7 @@
       "open_issues": 0,
       "owner": "Symbitic",
       "repo": "awesome-babylonjs",
-      "stars": 359,
+      "stars": 358,
       "topics": [
         "awesome",
         "awesome-list",
