@@ -1699,8 +1699,8 @@
             "id": 351859028,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-14T18:08:10Z",
-            "open_issues": 102,
+            "last_commit": "2026-10-15T18:09:44Z",
+            "open_issues": 103,
             "owner": "BarthPaleologue",
             "repo": "CosmosJourneyer",
             "stars": 58,
@@ -2282,7 +2282,7 @@
             "open_issues": 2,
             "owner": "orion3dgames",
             "repo": "t5c",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "babylonjs",
               "colyseus",
@@ -2408,7 +2408,7 @@
             "open_issues": 9,
             "owner": "virtual-cast",
             "repo": "babylon-mtoon-material",
-            "stars": 76,
+            "stars": 75,
             "topics": [
               "babylonjs",
               "shader",
@@ -2655,7 +2655,7 @@
             "open_issues": 17,
             "owner": "simonihmig",
             "repo": "ecsy-babylon",
-            "stars": 39,
+            "stars": 38,
             "topics": [
               "babylonjs",
               "ecsy"
@@ -3602,7 +3602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:22:27.477Z",
+    "last_updated": "2026-10-16T01:09:03.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
