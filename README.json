@@ -1699,8 +1699,8 @@
             "id": 351859028,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-15T18:09:44Z",
-            "open_issues": 103,
+            "last_commit": "2026-10-16T14:25:05Z",
+            "open_issues": 102,
             "owner": "BarthPaleologue",
             "repo": "CosmosJourneyer",
             "stars": 58,
@@ -2174,7 +2174,7 @@
             "open_issues": 0,
             "owner": "Divine-Star-Software",
             "repo": "DivineVoxelEngine",
-            "stars": 264,
+            "stars": 265,
             "topics": [
               "babylonjs",
               "minecraft",
@@ -2282,7 +2282,7 @@
             "open_issues": 2,
             "owner": "orion3dgames",
             "repo": "t5c",
-            "stars": 185,
+            "stars": 184,
             "topics": [
               "babylonjs",
               "colyseus",
@@ -3208,7 +3208,7 @@
           "description": "This repository pairs with the Babylon.js Mixed Reality module that is part of the Microsoft Learn learning path inspired by the Space Jam: A New Legacy film.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": null,
             "homepage": null,
             "id": 375132026,
@@ -3602,7 +3602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T01:09:03.914Z",
+    "last_updated": "2026-10-17T01:13:56.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
@@ -3614,7 +3614,7 @@
       "open_issues": 0,
       "owner": "Symbitic",
       "repo": "awesome-babylonjs",
-      "stars": 358,
+      "stars": 357,
       "topics": [
         "awesome",
         "awesome-list",
