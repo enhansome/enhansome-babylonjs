@@ -39,7 +39,7 @@
 * [Partners Using Babylon.js](https://www.babylonjs.com/partners/)
 * [Specifications](https://www.babylonjs.com/specifications/)
 * Social Media
-  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,171 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-16
+  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,179 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-16
   * [Medium](https://babylonjs.medium.com/)
   * [Twitter](https://twitter.com/babylonjs)
   * [YouTube Channel](https://www.youtube.com/channel/UCyOemMa5EJkIgVavJjSCLKQ)
@@ -227,7 +227,7 @@
 * [WCafe](https://www.babylonjs.com/Demos/WCafe/) - Windows Cafe is a great place to unwind and have a relaxing look around. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/WCafe) ⭐ 217 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-14)
 * [Yeti](https://www.babylonjs.com/Demos/Yeti/) - A non-threatening Yeti, complete with snow. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Yeti) ⭐ 217 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-14)
 * [Ink](https://www.babylonjs.com/Demos/Ink/) - Quick Demo of using Babylon.js to simulate inking. ([source](https://github.com/sebavan/BabylonjsInkSample) ⭐ 29 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-13)
-* [Video Processing Sample](https://www.babylonjs.com/Demos/VideoProcessing/) - Quick Demo for setting up a Babylon.js real-time video processing using a webcam. ([source](https://github.com/sebavan/BabylonjsVideoProcessingSample) ⭐ 16 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-13)
+* [Video Processing Sample](https://www.babylonjs.com/Demos/VideoProcessing/) - Quick Demo for setting up a Babylon.js real-time video processing using a webcam. ([source](https://github.com/sebavan/BabylonjsVideoProcessingSample) ⭐ 16 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-17)
 
 ## Scenes
 
@@ -273,7 +273,7 @@
 * [Divine Voxel Engine](https://github.com/Divine-Star-Software/DivineVoxelEngine) ⭐ 265 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-20 - A truly multi-threaded JavaScript voxel game engine written in TypeScript.
 * [BabylonJS-CharacterController](https://github.com/ssatguru/BabylonJS-CharacterController) ⭐ 242 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-28 - A CharacterController for Babylon.js ([demo](https://ssatguru.github.io/BabylonJS-CharacterController-Samples/demo/))
 * [Reactylon](https://github.com/simonedevit/reactylon) ⭐ 237 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-29 - The React framework for XR. ([demo](https://www.reactylon.com/docs))
-* [babylonjs-webpack-es6](https://github.com/RaananW/babylonjs-webpack-es6) ⭐ 205 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-10 - Babylon.js basic scene with typescript, webpack, es6 modules, editorconfig, eslint, hot loading and more. Will even make coffee if you ask nicely.
+* [babylonjs-webpack-es6](https://github.com/RaananW/babylonjs-webpack-es6) ⭐ 205 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-17 - Babylon.js basic scene with typescript, webpack, es6 modules, editorconfig, eslint, hot loading and more. Will even make coffee if you ask nicely.
 * [t5c](https://github.com/orion3dgames/t5c) ⭐ 184 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-01 - The 5th Continent - an open-source multiplayer 3D RPG. ([demo](https://t5c.onrender.com/))
 * [OceanDemo](https://github.com/Popov72/OceanDemo) ⭐ 150 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-23 - Ocean demo in WebGPU. ([demo](https://popov72.github.io/OceanDemo/dist/index.html))
 * [encantar.js](https://github.com/alemart/encantar-js) ⭐ 125 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-24 - GPU-accelerated Augmented Reality library that works on any device (iOS, Android, desktops). Easy to use and requires no WebXR support.
@@ -294,7 +294,7 @@
 * [Christmas runner](https://github.com/Temechon/Christmas-runner) ⭐ 27 | 🐛 0 | 🌐 JavaScript | 📅 2015-12-09 - A Babylon.js game made for Christmas. ([demo](http://pixelcodr.com/games/christmasRunner/))
 * [Babylon PostEffect Designer](https://github.com/HarveyLijh/Babylon_PostEffect_Designer_JL) ⭐ 26 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-29 - Full control of post effects adjustments in Babylon.js. Supports real-time post-effect adjustments, mesh import, and post-effect data sharing. ([demo](https://harveylijh.github.io/Babylon_PostEffect_Designer_JL/))
 * [KZ Climbing](https://github.com/BabylonJSGames/BabylonJS-Platformer-Game-Prototype) ⭐ 25 | 🐛 0 | 🌐 TypeScript | 📅 2023-04-28 - A 3D platformer browser game prototype similar to "KZ" maps in Counter Strike. ([demo](https://kzclimbing.netlify.app/client/public/))
-* [react-babylon-spring](https://github.com/hookex/react-babylon-spring) ⭐ 17 | 🐛 18 | 🌐 JavaScript | 📅 2026-10-09 - Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. ([demo](https://hooke.life/react-babylon-spring/))
+* [react-babylon-spring](https://github.com/hookex/react-babylon-spring) ⭐ 17 | 🐛 19 | 🌐 JavaScript | 📅 2026-10-17 - Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. ([demo](https://hooke.life/react-babylon-spring/))
 * [fps-babylon-js](https://github.com/Raigyo/fps-babylon-js) ⭐ 16 | 🐛 10 | 🌐 JavaScript | 📅 2022-12-12 - Online Multiplayer First Person Shooter with Babylon.js & SocketIO. ([demo](https://babylon-fps-online.herokuapp.com/))
 * [Epic Guide](https://github.com/Temechon/Babylon.js-FPS) ⭐ 15 | 🐛 2 | 🌐 JavaScript | 📅 2016-06-09 - A FPS game about going for a walk. ([demo](http://pixelcodr.com/games/babylonjs-fps/))
 * [VR Office Throwing Game](https://github.com/wilcoschoneveld/office) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2021-07-28 - A VR throwing game. ([demo](https://office.wilcoschoneveld.com/))
@@ -378,4 +378,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
