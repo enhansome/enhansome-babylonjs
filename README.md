@@ -39,7 +39,7 @@
 * [Partners Using Babylon.js](https://www.babylonjs.com/partners/)
 * [Specifications](https://www.babylonjs.com/specifications/)
 * Social Media
-  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,179 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-16
+  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,184 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-16
   * [Medium](https://babylonjs.medium.com/)
   * [Twitter](https://twitter.com/babylonjs)
   * [YouTube Channel](https://www.youtube.com/channel/UCyOemMa5EJkIgVavJjSCLKQ)
@@ -226,8 +226,8 @@
 * [V8](https://www.babylonjs.com/Demos/V8/) - A complex, moving replica of a V8 engine. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/V8) ⭐ 217 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-14)
 * [WCafe](https://www.babylonjs.com/Demos/WCafe/) - Windows Cafe is a great place to unwind and have a relaxing look around. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/WCafe) ⭐ 217 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-14)
 * [Yeti](https://www.babylonjs.com/Demos/Yeti/) - A non-threatening Yeti, complete with snow. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Yeti) ⭐ 217 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-14)
-* [Ink](https://www.babylonjs.com/Demos/Ink/) - Quick Demo of using Babylon.js to simulate inking. ([source](https://github.com/sebavan/BabylonjsInkSample) ⭐ 29 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-13)
-* [Video Processing Sample](https://www.babylonjs.com/Demos/VideoProcessing/) - Quick Demo for setting up a Babylon.js real-time video processing using a webcam. ([source](https://github.com/sebavan/BabylonjsVideoProcessingSample) ⭐ 16 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-17)
+* [Ink](https://www.babylonjs.com/Demos/Ink/) - Quick Demo of using Babylon.js to simulate inking. ([source](https://github.com/sebavan/BabylonjsInkSample) ⭐ 29 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-18)
+* [Video Processing Sample](https://www.babylonjs.com/Demos/VideoProcessing/) - Quick Demo for setting up a Babylon.js real-time video processing using a webcam. ([source](https://github.com/sebavan/BabylonjsVideoProcessingSample) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-18)
 
 ## Scenes
 
@@ -249,7 +249,7 @@
 * [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer) ⭐ 58 | 🐛 102 | 🌐 TypeScript | 📅 2026-10-16 - Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. ([demo](https://cosmosjourneyer.com/))
 * [Space Invaders](https://github.com/johnpitchers/Space-Invaders) ⭐ 45 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-23 - Space Invaders in your browser with 3D WebGL. ([demo](https://spaceinvaders.viperfish.com.au/))
 * [Planet Builder](https://github.com/SvenFrankson/planet-builder-web) ⭐ 30 | 🐛 1 | 🌐 JavaScript | 📅 2023-04-22 - Spherical Voxel Engine demo with a robot hand. ([demo](https://svenfrankson.github.io/PlanetBuilder2022/index.html))
-* [Defend](https://github.com/xtreemze/defend) ⭐ 26 | 🐛 64 | 🌐 Java | 📅 2026-10-10 - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. ([demo](https://xtreemze.github.io/defend/))
+* [Defend](https://github.com/xtreemze/defend) ⭐ 26 | 🐛 65 | 🌐 Java | 📅 2026-10-18 - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. ([demo](https://xtreemze.github.io/defend/))
 * [Light Speed Ready!](https://github.com/Xanmia/Light-Speed-Ready) ⭐ 21 | 🐛 6 | 🌐 JavaScript | 📅 2014-05-09 - A spaceship game of gathering resources and leveling your ship. ([demo](https://www.kraem.com/Light-Speed-Ready/game.html))
 * [Hide and Seek Demo](https://github.com/colyseus/babylonjs-hide-and-seek) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2022-10-21 - Multiplayer Hide-and-Seek made with BabylonJS and Colyseus. ([demo](https://docs.colyseus.io/colyseus/demo/babylonjs-editor/hide-and-seek/))
 * [Theasis](https://github.com/ThanosRestas/Theasis) ⭐ 18 | 🐛 11 | 🌐 JavaScript | 📅 2021-10-06 - FPS game. ([demo](https://thanosrestas.github.io/Theasis/dist/index.html))
@@ -294,7 +294,7 @@
 * [Christmas runner](https://github.com/Temechon/Christmas-runner) ⭐ 27 | 🐛 0 | 🌐 JavaScript | 📅 2015-12-09 - A Babylon.js game made for Christmas. ([demo](http://pixelcodr.com/games/christmasRunner/))
 * [Babylon PostEffect Designer](https://github.com/HarveyLijh/Babylon_PostEffect_Designer_JL) ⭐ 26 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-29 - Full control of post effects adjustments in Babylon.js. Supports real-time post-effect adjustments, mesh import, and post-effect data sharing. ([demo](https://harveylijh.github.io/Babylon_PostEffect_Designer_JL/))
 * [KZ Climbing](https://github.com/BabylonJSGames/BabylonJS-Platformer-Game-Prototype) ⭐ 25 | 🐛 0 | 🌐 TypeScript | 📅 2023-04-28 - A 3D platformer browser game prototype similar to "KZ" maps in Counter Strike. ([demo](https://kzclimbing.netlify.app/client/public/))
-* [react-babylon-spring](https://github.com/hookex/react-babylon-spring) ⭐ 17 | 🐛 19 | 🌐 JavaScript | 📅 2026-10-17 - Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. ([demo](https://hooke.life/react-babylon-spring/))
+* [react-babylon-spring](https://github.com/hookex/react-babylon-spring) ⭐ 17 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-18 - Build spring-physics based 3D animation with the power of react-babylonjs and react-spring. ([demo](https://hooke.life/react-babylon-spring/))
 * [fps-babylon-js](https://github.com/Raigyo/fps-babylon-js) ⭐ 16 | 🐛 10 | 🌐 JavaScript | 📅 2022-12-12 - Online Multiplayer First Person Shooter with Babylon.js & SocketIO. ([demo](https://babylon-fps-online.herokuapp.com/))
 * [Epic Guide](https://github.com/Temechon/Babylon.js-FPS) ⭐ 15 | 🐛 2 | 🌐 JavaScript | 📅 2016-06-09 - A FPS game about going for a walk. ([demo](http://pixelcodr.com/games/babylonjs-fps/))
 * [VR Office Throwing Game](https://github.com/wilcoschoneveld/office) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2021-07-28 - A VR throwing game. ([demo](https://office.wilcoschoneveld.com/))
@@ -378,4 +378,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
