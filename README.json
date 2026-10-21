@@ -1445,8 +1445,8 @@
             "id": 255744611,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T14:51:15Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-20T19:51:31Z",
+            "open_issues": 2,
             "owner": "sebavan",
             "repo": "BabylonjsInkSample",
             "stars": 29,
@@ -1699,8 +1699,8 @@
             "id": 351859028,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-19T17:54:29Z",
-            "open_issues": 101,
+            "last_commit": "2026-10-20T21:28:22Z",
+            "open_issues": 102,
             "owner": "BarthPaleologue",
             "repo": "CosmosJourneyer",
             "stars": 58,
@@ -3602,7 +3602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T01:40:43.493Z",
+    "last_updated": "2026-10-21T01:26:45.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
