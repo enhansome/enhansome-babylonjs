@@ -39,7 +39,7 @@
 * [Partners Using Babylon.js](https://www.babylonjs.com/partners/)
 * [Specifications](https://www.babylonjs.com/specifications/)
 * Social Media
-  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,220 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-23
+  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,221 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-23
   * [Medium](https://babylonjs.medium.com/)
   * [Twitter](https://twitter.com/babylonjs)
   * [YouTube Channel](https://www.youtube.com/channel/UCyOemMa5EJkIgVavJjSCLKQ)
@@ -249,7 +249,7 @@
 * [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer) ⭐ 58 | 🐛 103 | 🌐 TypeScript | 📅 2026-10-22 - Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. ([demo](https://cosmosjourneyer.com/))
 * [Space Invaders](https://github.com/johnpitchers/Space-Invaders) ⭐ 45 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-23 - Space Invaders in your browser with 3D WebGL. ([demo](https://spaceinvaders.viperfish.com.au/))
 * [Planet Builder](https://github.com/SvenFrankson/planet-builder-web) ⭐ 30 | 🐛 1 | 🌐 JavaScript | 📅 2023-04-22 - Spherical Voxel Engine demo with a robot hand. ([demo](https://svenfrankson.github.io/PlanetBuilder2022/index.html))
-* [Defend](https://github.com/xtreemze/defend) ⭐ 26 | 🐛 67 | 🌐 Java | 📅 2026-10-21 - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. ([demo](https://xtreemze.github.io/defend/))
+* [Defend](https://github.com/xtreemze/defend) ⭐ 26 | 🐛 69 | 🌐 Java | 📅 2026-10-24 - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. ([demo](https://xtreemze.github.io/defend/))
 * [Light Speed Ready!](https://github.com/Xanmia/Light-Speed-Ready) ⭐ 21 | 🐛 6 | 🌐 JavaScript | 📅 2014-05-09 - A spaceship game of gathering resources and leveling your ship. ([demo](https://www.kraem.com/Light-Speed-Ready/game.html))
 * [Hide and Seek Demo](https://github.com/colyseus/babylonjs-hide-and-seek) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2022-10-21 - Multiplayer Hide-and-Seek made with BabylonJS and Colyseus. ([demo](https://docs.colyseus.io/colyseus/demo/babylonjs-editor/hide-and-seek/))
 * [Theasis](https://github.com/ThanosRestas/Theasis) ⭐ 18 | 🐛 11 | 🌐 JavaScript | 📅 2021-10-06 - FPS game. ([demo](https://thanosrestas.github.io/Theasis/dist/index.html))
@@ -273,7 +273,7 @@
 * [Divine Voxel Engine](https://github.com/Divine-Star-Software/DivineVoxelEngine) ⭐ 265 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-20 - A truly multi-threaded JavaScript voxel game engine written in TypeScript.
 * [BabylonJS-CharacterController](https://github.com/ssatguru/BabylonJS-CharacterController) ⭐ 242 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-20 - A CharacterController for Babylon.js ([demo](https://ssatguru.github.io/BabylonJS-CharacterController-Samples/demo/))
 * [Reactylon](https://github.com/simonedevit/reactylon) ⭐ 238 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-29 - The React framework for XR. ([demo](https://www.reactylon.com/docs))
-* [babylonjs-webpack-es6](https://github.com/RaananW/babylonjs-webpack-es6) ⭐ 205 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-17 - Babylon.js basic scene with typescript, webpack, es6 modules, editorconfig, eslint, hot loading and more. Will even make coffee if you ask nicely.
+* [babylonjs-webpack-es6](https://github.com/RaananW/babylonjs-webpack-es6) ⭐ 205 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-24 - Babylon.js basic scene with typescript, webpack, es6 modules, editorconfig, eslint, hot loading and more. Will even make coffee if you ask nicely.
 * [t5c](https://github.com/orion3dgames/t5c) ⭐ 184 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-01 - The 5th Continent - an open-source multiplayer 3D RPG. ([demo](https://t5c.onrender.com/))
 * [OceanDemo](https://github.com/Popov72/OceanDemo) ⭐ 150 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-23 - Ocean demo in WebGPU. ([demo](https://popov72.github.io/OceanDemo/dist/index.html))
 * [encantar.js](https://github.com/alemart/encantar-js) ⭐ 125 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-24 - GPU-accelerated Augmented Reality library that works on any device (iOS, Android, desktops). Easy to use and requires no WebXR support.
@@ -378,4 +378,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
