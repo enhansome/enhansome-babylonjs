@@ -39,7 +39,7 @@
 * [Partners Using Babylon.js](https://www.babylonjs.com/partners/)
 * [Specifications](https://www.babylonjs.com/specifications/)
 * Social Media
-  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,221 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-23
+  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,225 | 🐛 37 | 🌐 TypeScript | 📅 2026-10-23
   * [Medium](https://babylonjs.medium.com/)
   * [Twitter](https://twitter.com/babylonjs)
   * [YouTube Channel](https://www.youtube.com/channel/UCyOemMa5EJkIgVavJjSCLKQ)
@@ -226,7 +226,7 @@
 * [V8](https://www.babylonjs.com/Demos/V8/) - A complex, moving replica of a V8 engine. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/V8) ⭐ 217 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-22)
 * [WCafe](https://www.babylonjs.com/Demos/WCafe/) - Windows Cafe is a great place to unwind and have a relaxing look around. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/WCafe) ⭐ 217 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-22)
 * [Yeti](https://www.babylonjs.com/Demos/Yeti/) - A non-threatening Yeti, complete with snow. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Yeti) ⭐ 217 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-22)
-* [Ink](https://www.babylonjs.com/Demos/Ink/) - Quick Demo of using Babylon.js to simulate inking. ([source](https://github.com/sebavan/BabylonjsInkSample) ⭐ 29 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-20)
+* [Ink](https://www.babylonjs.com/Demos/Ink/) - Quick Demo of using Babylon.js to simulate inking. ([source](https://github.com/sebavan/BabylonjsInkSample) ⭐ 29 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-25)
 * [Video Processing Sample](https://www.babylonjs.com/Demos/VideoProcessing/) - Quick Demo for setting up a Babylon.js real-time video processing using a webcam. ([source](https://github.com/sebavan/BabylonjsVideoProcessingSample) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-18)
 
 ## Scenes
@@ -244,9 +244,9 @@
 * [Space Pirates](https://github.com/BabylonJS/SpacePirates) ⚠️ Archived - Shoot down pirates in space. ([demo](https://spacepirates.babylonjs.com/))
 * [Summer's Festival](https://github.com/BabylonJS/SummerFestival) ⭐ 137 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-25 - Source code for the game tutorial written by capucat. ([demo](https://capucat.github.io/summers-festival/))
 * [VoxelSrv](https://github.com/VoxelSrv/voxelsrv) ⚠️ Archived - Voxel browser game inspired by Minecraft. ([demo](http://voxelsrv-master.pb4.eu/))
-* [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) ⭐ 86 | 🐛 1 | 🌐 TypeScript | 📅 2022-04-11 - Simulation driving of F18 Fighter. ([demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html))
+* [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) ⭐ 87 | 🐛 1 | 🌐 TypeScript | 📅 2022-04-11 - Simulation driving of F18 Fighter. ([demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html))
 * [Space Truckers](https://github.com/jelster/space-truckers) ⭐ 60 | 🐛 22 | 🌐 JavaScript | 📅 2023-08-27 - A game of getting stuff from Point A to Point B... IN SPAAAACCE! ([demo](https://space-truckers.com/))
-* [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer) ⭐ 58 | 🐛 103 | 🌐 TypeScript | 📅 2026-10-22 - Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. ([demo](https://cosmosjourneyer.com/))
+* [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer) ⭐ 58 | 🐛 103 | 🌐 TypeScript | 📅 2026-10-25 - Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. ([demo](https://cosmosjourneyer.com/))
 * [Space Invaders](https://github.com/johnpitchers/Space-Invaders) ⭐ 45 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-23 - Space Invaders in your browser with 3D WebGL. ([demo](https://spaceinvaders.viperfish.com.au/))
 * [Planet Builder](https://github.com/SvenFrankson/planet-builder-web) ⭐ 30 | 🐛 1 | 🌐 JavaScript | 📅 2023-04-22 - Spherical Voxel Engine demo with a robot hand. ([demo](https://svenfrankson.github.io/PlanetBuilder2022/index.html))
 * [Defend](https://github.com/xtreemze/defend) ⭐ 26 | 🐛 69 | 🌐 Java | 📅 2026-10-24 - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. ([demo](https://xtreemze.github.io/defend/))
@@ -306,7 +306,7 @@
 * [cannon-es-debugger-babylonjs](https://github.com/neu5/cannon-es-debugger-babylonjs) ⭐ 8 | 🐛 5 | 🌐 HTML | 📅 2024-01-22 - This is a debugger for use with cannon-es. ([demo](https://neu5.github.io/cannon-es-debugger-babylonjs/))
 * [glTF\_Physics\_Babylon](https://github.com/eoineoineoin/glTF_Physics_Babylon) ⭐ 8 | 🐛 1 | 🌐 TypeScript | 📅 2026-01-20 - Demonstrates filters, joints, and complex assets like a water wheel. ([demo](https://eoineoineoin.github.io/glTF_Physics_Babylon/packages/demo/dist/#sceneIndex=6))
 * [webxr-depth-testbed-babylon](https://github.com/drumath2237/webxr-depth-testbed-babylon) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2022-10-12 - Testbed for WebXR Depth Feature. ([demo](https://drumath2237.github.io/webxr-depth-testbed-babylon/))
-* [Kicker](https://github.com/Temechon/kicker) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2016-02-19 - A soccer ball game made for Babylon.js February Challenge. ([demo](http://pixelcodr.com/games/kicker/))
+* [Kicker](https://github.com/Temechon/kicker) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2016-02-19 - A soccer ball game made for Babylon.js February Challenge. ([demo](http://pixelcodr.com/games/kicker/))
 * [Babylon.js "magic" piano portal](https://github.com/docEdub/babylonjs-ar-piano-portal) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2024-03-25 - An augmented-reality WebXR animation of Chopin's "Winter Wind" Étude to hang on your wall! Works on flat-screen, too. ([demo](https://demos.babylonjs.com/piano-portal/))
 * [Swarm](https://temechon.itch.io/swarm) - A Babylon.js scene made for the screensaver jam. ([demo](https://github.com/Temechon/screensaver) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-22)
 * [TanksBattle\_WebGL\_Using\_Babylonjs](https://github.com/khaledose/TanksBattle_WebGL_Using_Babylonjs) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2019-06-11 - 3D Tanks Battle WebGL game. ([video](https://www.youtube.com/watch?v=HJrAUqTd1oU))
@@ -378,4 +378,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
