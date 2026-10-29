@@ -1699,7 +1699,7 @@
             "id": 351859028,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T19:04:08Z",
+            "last_commit": "2026-10-28T21:48:31Z",
             "open_issues": 103,
             "owner": "BarthPaleologue",
             "repo": "CosmosJourneyer",
@@ -2086,7 +2086,7 @@
             "open_issues": 9,
             "owner": "brianzinn",
             "repo": "react-babylonjs",
-            "stars": 892,
+            "stars": 891,
             "topics": [
               "3d",
               "3d-engine",
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T02:06:13.467Z",
+    "last_updated": "2026-10-29T02:16:48.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
