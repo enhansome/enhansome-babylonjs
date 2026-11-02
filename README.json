@@ -1699,7 +1699,7 @@
             "id": 351859028,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-31T22:41:41Z",
+            "last_commit": "2026-11-01T19:45:15Z",
             "open_issues": 103,
             "owner": "BarthPaleologue",
             "repo": "CosmosJourneyer",
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:03:38.991Z",
+    "last_updated": "2026-11-02T02:18:20.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
