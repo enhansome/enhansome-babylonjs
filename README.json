@@ -2309,7 +2309,7 @@
             "open_issues": 0,
             "owner": "Popov72",
             "repo": "OceanDemo",
-            "stars": 150,
+            "stars": 151,
             "topics": []
           },
           "first_seen": "2026-08-28T06:51:24.297Z"
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T02:40:45.190Z",
+    "last_updated": "2026-11-12T03:43:21.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",

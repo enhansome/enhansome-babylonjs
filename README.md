@@ -39,7 +39,7 @@
 * [Partners Using Babylon.js](https://www.babylonjs.com/partners/)
 * [Specifications](https://www.babylonjs.com/specifications/)
 * Social Media
-  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,320 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-11
+  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,328 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-11
   * [Medium](https://babylonjs.medium.com/)
   * [Twitter](https://twitter.com/babylonjs)
   * [YouTube Channel](https://www.youtube.com/channel/UCyOemMa5EJkIgVavJjSCLKQ)
@@ -275,7 +275,7 @@
 * [Reactylon](https://github.com/simonedevit/reactylon) ⭐ 238 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-29 - The React framework for XR. ([demo](https://www.reactylon.com/docs))
 * [babylonjs-webpack-es6](https://github.com/RaananW/babylonjs-webpack-es6) ⭐ 205 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-07 - Babylon.js basic scene with typescript, webpack, es6 modules, editorconfig, eslint, hot loading and more. Will even make coffee if you ask nicely.
 * [t5c](https://github.com/orion3dgames/t5c) ⭐ 184 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-01 - The 5th Continent - an open-source multiplayer 3D RPG. ([demo](https://t5c.onrender.com/))
-* [OceanDemo](https://github.com/Popov72/OceanDemo) ⭐ 150 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-23 - Ocean demo in WebGPU. ([demo](https://popov72.github.io/OceanDemo/dist/index.html))
+* [OceanDemo](https://github.com/Popov72/OceanDemo) ⭐ 151 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-23 - Ocean demo in WebGPU. ([demo](https://popov72.github.io/OceanDemo/dist/index.html))
 * [encantar.js](https://github.com/alemart/encantar-js) ⭐ 125 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-24 - GPU-accelerated Augmented Reality library that works on any device (iOS, Android, desktops). Easy to use and requires no WebXR support.
 * [multiplayer-babylon-js-game](https://github.com/aeon0/multiplayer-babylon-js-game) ⭐ 110 | 🐛 6 | 🌐 TypeScript | 📅 2022-12-10 - Multiplayer game with server and client-side physics engine synchronization. ([demo](http://185.82.21.82:8700/))
 * [BabylonFpsDemo](https://github.com/renjianfeng/BabylonFpsDemo) ⭐ 97 | 🐛 2 | 🌐 JavaScript | 📅 2017-12-11 - A first-person shooter with Babylon.js ([demo](https://renjianfeng.github.io/BabylonFpsDemo/example/index.html))
@@ -378,4 +378,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
