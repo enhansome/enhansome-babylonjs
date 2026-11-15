@@ -1627,7 +1627,7 @@
             "open_issues": 7,
             "owner": "VoxelSrv",
             "repo": "voxelsrv",
-            "stars": 90,
+            "stars": 89,
             "topics": [
               "browser-game",
               "js-game",
@@ -1673,7 +1673,7 @@
             "id": 351859028,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-12T23:16:33Z",
+            "last_commit": "2026-11-14T23:16:54Z",
             "open_issues": 103,
             "owner": "BarthPaleologue",
             "repo": "CosmosJourneyer",
@@ -2083,10 +2083,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-06-02T13:56:21Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "brianzinn",
             "repo": "react-babylonjs",
-            "stars": 892,
+            "stars": 891,
             "topics": [
               "3d",
               "3d-engine",
@@ -2116,7 +2116,7 @@
             "open_issues": 2,
             "owner": "ertugrulcetin",
             "repo": "immersa",
-            "stars": 490,
+            "stars": 491,
             "topics": []
           },
           "first_seen": "2026-08-28T06:51:24.297Z"
@@ -2174,7 +2174,7 @@
             "open_issues": 0,
             "owner": "Divine-Star-Software",
             "repo": "DivineVoxelEngine",
-            "stars": 265,
+            "stars": 266,
             "topics": [
               "babylonjs",
               "minecraft",
@@ -2251,7 +2251,7 @@
             "id": 257889364,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T09:25:44Z",
+            "last_commit": "2026-11-14T12:03:37Z",
             "open_issues": 0,
             "owner": "RaananW",
             "repo": "babylonjs-webpack-es6",
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T03:01:23.839Z",
+    "last_updated": "2026-11-15T02:31:07.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
