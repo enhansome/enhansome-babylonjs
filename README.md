@@ -39,7 +39,7 @@
 * [Partners Using Babylon.js](https://www.babylonjs.com/partners/)
 * [Specifications](https://www.babylonjs.com/specifications/)
 * Social Media
-  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,359 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-14
+  * [GitHub](https://github.com/BabylonJS/Babylon.js) ⭐ 26,376 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-15
   * [Medium](https://babylonjs.medium.com/)
   * [Twitter](https://twitter.com/babylonjs)
   * [YouTube Channel](https://www.youtube.com/channel/UCyOemMa5EJkIgVavJjSCLKQ)
@@ -226,8 +226,8 @@
 * [V8](https://www.babylonjs.com/Demos/V8/) - A complex, moving replica of a V8 engine. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/V8) ⭐ 216 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-09)
 * [WCafe](https://www.babylonjs.com/Demos/WCafe/) - Windows Cafe is a great place to unwind and have a relaxing look around. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/WCafe) ⭐ 216 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-09)
 * [Yeti](https://www.babylonjs.com/Demos/Yeti/) - A non-threatening Yeti, complete with snow. ([source](https://github.com/BabylonJS/Website/tree/master/build/Demos/Yeti) ⭐ 216 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-09)
-* [Ink](https://www.babylonjs.com/Demos/Ink/) - Quick Demo of using Babylon.js to simulate inking. ([source](https://github.com/sebavan/BabylonjsInkSample) ⭐ 29 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-25)
-* [Video Processing Sample](https://www.babylonjs.com/Demos/VideoProcessing/) - Quick Demo for setting up a Babylon.js real-time video processing using a webcam. ([source](https://github.com/sebavan/BabylonjsVideoProcessingSample) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-26)
+* [Ink](https://www.babylonjs.com/Demos/Ink/) - Quick Demo of using Babylon.js to simulate inking. ([source](https://github.com/sebavan/BabylonjsInkSample) ⭐ 29 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-16)
+* [Video Processing Sample](https://www.babylonjs.com/Demos/VideoProcessing/) - Quick Demo for setting up a Babylon.js real-time video processing using a webcam. ([source](https://github.com/sebavan/BabylonjsVideoProcessingSample) ⭐ 16 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-16)
 
 ## Scenes
 
@@ -244,8 +244,8 @@
 * [Space Pirates](https://github.com/BabylonJS/SpacePirates) ⚠️ Archived - Shoot down pirates in space. ([demo](https://spacepirates.babylonjs.com/))
 * [Summer's Festival](https://github.com/BabylonJS/SummerFestival) ⭐ 137 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-25 - Source code for the game tutorial written by capucat. ([demo](https://capucat.github.io/summers-festival/))
 * [VoxelSrv](https://github.com/VoxelSrv/voxelsrv) ⚠️ Archived - Voxel browser game inspired by Minecraft. ([demo](http://voxelsrv-master.pb4.eu/))
-* [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) ⭐ 87 | 🐛 1 | 🌐 TypeScript | 📅 2022-04-11 - Simulation driving of F18 Fighter. ([demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html))
-* [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer) ⭐ 62 | 🐛 103 | 🌐 TypeScript | 📅 2026-11-14 - Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. ([demo](https://cosmosjourneyer.com/))
+* [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) ⭐ 88 | 🐛 1 | 🌐 TypeScript | 📅 2022-04-11 - Simulation driving of F18 Fighter. ([demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html))
+* [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer) ⭐ 62 | 🐛 103 | 🌐 TypeScript | 📅 2026-11-15 - Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. ([demo](https://cosmosjourneyer.com/))
 * [Space Truckers](https://github.com/jelster/space-truckers) ⭐ 60 | 🐛 22 | 🌐 JavaScript | 📅 2023-08-27 - A game of getting stuff from Point A to Point B... IN SPAAAACCE! ([demo](https://space-truckers.com/))
 * [Space Invaders](https://github.com/johnpitchers/Space-Invaders) ⭐ 45 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-23 - Space Invaders in your browser with 3D WebGL. ([demo](https://spaceinvaders.viperfish.com.au/))
 * [Planet Builder](https://github.com/SvenFrankson/planet-builder-web) ⭐ 31 | 🐛 1 | 🌐 JavaScript | 📅 2023-04-22 - Spherical Voxel Engine demo with a robot hand. ([demo](https://svenfrankson.github.io/PlanetBuilder2022/index.html))
@@ -270,7 +270,7 @@
 * [react-babylonjs](https://github.com/brianzinn/react-babylonjs) ⭐ 891 | 🐛 10 | 🌐 TypeScript | 📅 2026-06-02 - React for Babylon.js ([demo](https://brianzinn.github.io/react-babylonjs/))
 * [Immersa](https://github.com/ertugrulcetin/immersa) ⭐ 491 | 🐛 2 | 🌐 Clojure | 📅 2025-12-25 - Open Source Web-based 3D Presentation Tool. ([video](https://www.youtube.com/watch?v=1yjtpf59jv0))
 * [Vue-BabylonJS](https://github.com/Beg-in/vue-babylonjs) ⚠️ Archived - A ready-to-go 3D environment for Vue.js using Babylon.js ([demo](https://vuebabylonjs.com/))
-* [Divine Voxel Engine](https://github.com/Divine-Star-Software/DivineVoxelEngine) ⭐ 266 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-20 - A truly multi-threaded JavaScript voxel game engine written in TypeScript.
+* [Divine Voxel Engine](https://github.com/Divine-Star-Software/DivineVoxelEngine) ⭐ 267 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-20 - A truly multi-threaded JavaScript voxel game engine written in TypeScript.
 * [BabylonJS-CharacterController](https://github.com/ssatguru/BabylonJS-CharacterController) ⭐ 243 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-20 - A CharacterController for Babylon.js ([demo](https://ssatguru.github.io/BabylonJS-CharacterController-Samples/demo/))
 * [Reactylon](https://github.com/simonedevit/reactylon) ⭐ 238 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-29 - The React framework for XR. ([demo](https://www.reactylon.com/docs))
 * [babylonjs-webpack-es6](https://github.com/RaananW/babylonjs-webpack-es6) ⭐ 205 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-14 - Babylon.js basic scene with typescript, webpack, es6 modules, editorconfig, eslint, hot loading and more. Will even make coffee if you ask nicely.
@@ -378,4 +378,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
