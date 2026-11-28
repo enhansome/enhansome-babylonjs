@@ -1673,7 +1673,7 @@
             "id": 351859028,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-25T18:33:29Z",
+            "last_commit": "2026-11-27T17:38:27Z",
             "open_issues": 104,
             "owner": "BarthPaleologue",
             "repo": "CosmosJourneyer",
@@ -2197,7 +2197,7 @@
             "id": 113472542,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T01:54:26Z",
+            "last_commit": "2026-11-27T20:45:45Z",
             "open_issues": 16,
             "owner": "ssatguru",
             "repo": "BabylonJS-CharacterController",
@@ -2251,7 +2251,7 @@
             "id": 257889364,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T03:03:27Z",
+            "last_commit": "2026-11-28T03:03:18Z",
             "open_issues": 3,
             "owner": "RaananW",
             "repo": "babylonjs-webpack-es6",
@@ -2282,7 +2282,7 @@
             "open_issues": 2,
             "owner": "orion3dgames",
             "repo": "t5c",
-            "stars": 184,
+            "stars": 183,
             "topics": [
               "babylonjs",
               "colyseus",
@@ -3602,7 +3602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T04:54:21.642Z",
+    "last_updated": "2026-11-28T04:39:42.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Babylon.js",
